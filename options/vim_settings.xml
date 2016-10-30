@@ -1,0 +1,391 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/SetExpensesAndIncomeAsUndefined.kt" timestamp="1475195122861">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/build/generated/source/apt/debug/br/com/castrodev/orcamento/models/ExpenseAndIncome$Adapter.java" timestamp="1475195553269">
+        <mark key="[" line="56" column="42" />
+        <mark key="]" line="202" column="70" />
+        <mark key="^" line="202" column="70" />
+        <mark key="." line="202" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/db/seeds/SeedInitializer.java" timestamp="1473739858889">
+        <mark key="[" line="46" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/SetExpensesAndIncomeAsUndefined.java" timestamp="1473825665042">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1475195037701">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/FragmentTransactionManager.kt" timestamp="1473737157713">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/tasks/PostUnsynchronizedItems.kt" timestamp="1473735222547">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/MainActivity.java" timestamp="1473827518313">
+        <mark key="[" line="163" column="102" />
+        <mark key="]" line="163" column="99" />
+        <mark key="." line="163" column="99" />
+        <mark key="^" line="163" column="99" />
+      </file>
+      <file name="$USER_HOME$/Projects/tochegando-android/app/src/main/java/com/example/jackson/tochegando/MainActivity.java" timestamp="1476816542114">
+        <mark key="'" line="10" column="21" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/Preferences.kt" timestamp="1473739263429">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="13" column="75" />
+        <mark key="." line="13" column="75" />
+        <mark key="^" line="13" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/Constantss.kt" timestamp="1474173064121">
+        <mark key="[" line="53" column="100" />
+        <mark key="]" line="54" column="18" />
+        <mark key="^" line="52" column="20" />
+        <mark key="." line="54" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/adapters/NavigationViewAdapter.java" timestamp="1473827074977">
+        <mark key="[" line="92" column="82" />
+        <mark key="]" line="92" column="82" />
+        <mark key="." line="92" column="82" />
+        <mark key="^" line="87" column="93" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/adapters/ExpenseCategoriesAdapter.kt" timestamp="1473739898330">
+        <mark key="[" line="13" column="70" />
+        <mark key="]" line="13" column="80" />
+        <mark key="." line="13" column="80" />
+        <mark key="^" line="13" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/RegisterCategoryActivity.java" timestamp="1473827451280">
+        <mark key="[" line="217" column="75" />
+        <mark key="]" line="217" column="75" />
+        <mark key="." line="217" column="75" />
+        <mark key="^" line="171" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/adapters/CategoriesAdapter.java" timestamp="1474173686612">
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/DateParser.java" timestamp="1474336477158">
+        <mark key="[" line="112" column="29" />
+        <mark key="]" line="112" column="34" />
+        <mark key="^" line="112" column="34" />
+        <mark key="." line="112" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/CategoriesFragment.java" timestamp="1473739408968">
+        <mark key="[" line="84" column="78" />
+        <mark key="]" line="72" column="126" />
+        <mark key="." line="72" column="126" />
+        <mark key="^" line="72" column="126" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/SignInActivity.java" timestamp="1473736840245">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/sincronization/Synchronization.java" timestamp="1473724251612">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="41" column="61" />
+        <mark key="." line="41" column="61" />
+        <mark key="^" line="41" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/db/seeds/AssociateCategoryWithIncomeSeed.java" timestamp="1475195503646">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="26" column="100" />
+        <mark key="." line="26" column="100" />
+        <mark key="^" line="26" column="100" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/tasks/LoadExpensesAndIncomesDate.java" timestamp="1473735498646">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/adapters/ExpensesAndIncomesAdapter.java" timestamp="1474173644262">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/IncomeActivity.java" timestamp="1475195107788">
+        <mark key="[" line="97" column="67" />
+        <mark key="]" line="97" column="67" />
+        <mark key="." line="97" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/orcamento-android/build.gradle" timestamp="1473732666246">
+        <mark key="[" line="7" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/models/Category.java" timestamp="1474173493503">
+        <mark key="[" line="66" column="86" />
+        <mark key="]" line="66" column="85" />
+        <mark key="." line="66" column="85" />
+        <mark key="^" line="66" column="85" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/ReportActivity.java" timestamp="1473739716287">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/DateParse.kt" timestamp="1474336861307">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="25" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/OrcamentoApplication.java" timestamp="1474173193246">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="44" column="31" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/ApiService.java" timestamp="1473724894469">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/tochegando-android/app/src/main/java/com/example/jackson/tochegando/ToChegandoApplication.java" timestamp="1476816545975">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/db/seeds/PaymentTypesSeed.java" timestamp="1473725536774">
+        <mark key="[" line="90" column="58" />
+        <mark key="]" line="90" column="66" />
+        <mark key="." line="90" column="66" />
+        <mark key="^" line="90" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/MainActivity.kt" timestamp="1473729054058">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/adapters/ExpenseAndIncomeAdapter.java" timestamp="1475195085443">
+        <mark key="[" line="121" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/ColorPickerDialogFragment.java" timestamp="1475195520954">
+        <mark key="[" line="52" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/tochegando-android/app/build.gradle" timestamp="1476817234027">
+        <mark key="[" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/gfg-teste/app/build.gradle" timestamp="1475282154833">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1473739459983">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/AndroidManifest.xml" timestamp="1473823765867">
+        <mark key="[" line="74" column="33" />
+        <mark key="]" line="74" column="63" />
+        <mark key="^" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/models/Category.kt" timestamp="1475195033009">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/Constants.java" timestamp="1474172881220">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/Constants.kt" timestamp="1474173516990">
+        <mark key="[" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/OrcamentoApplication.java" timestamp="1473733983089">
+        <mark key="[" line="127" column="47" />
+        <mark key="]" line="127" column="51" />
+        <mark key="^" line="127" column="51" />
+        <mark key="." line="127" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/SignUpActivity.java" timestamp="1473736813337">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="102" column="35" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/ExpensesAndIncomesListFragment.java" timestamp="1473901065758">
+        <mark key="[" line="116" column="9" />
+        <mark key="]" line="116" column="8" />
+        <mark key="^" line="116" column="8" />
+        <mark key="." line="116" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/build.gradle" timestamp="1475197111461">
+        <mark key="[" line="151" column="18" />
+        <mark key="]" line="151" column="18" />
+        <mark key="." line="151" column="1" />
+        <mark key="^" line="151" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/ExpenseActivity.java" timestamp="1473827463883">
+        <mark key="[" line="297" column="74" />
+        <mark key="]" line="297" column="74" />
+        <mark key="." line="297" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/res/layout/navigation_view.xml" timestamp="1473827821234">
+        <mark key="[" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/build.gradle" timestamp="1473899391007">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1474172132004">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="55" column="6" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/sincronization/SyncTaskService.java" />
+      <jump line="14" column="6" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/sincronization/SyncTaskService.java" />
+      <jump line="360" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/sincronization/SyncTaskService.java" />
+      <jump line="72" column="24" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/sincronization/SyncTaskService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/sincronization/SyncTaskService.java" />
+      <jump line="97" column="35" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/ApiService.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/ApiService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/api/ApiService.java" />
+      <jump line="143" column="8" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="36" column="49" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/db/seeds/PaymentTypesSeed.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/db/seeds/PaymentTypesSeed.java" />
+      <jump line="55" column="6" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/CategoriesFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/CategoriesFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/BaseActivity.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/BaseActivity.java" />
+      <jump line="50" column="21" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/SignUpActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/SignUpActivity.java" />
+      <jump line="33" column="36" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/RegisterCategoryActivity.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/RegisterCategoryActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/RegisterCategoryActivity.java" />
+      <jump line="111" column="1" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="35" column="11" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/OrcamentoApplication.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/OrcamentoApplication.kt" />
+      <jump line="90" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/OrcamentoApplication.kt" />
+      <jump line="145" column="41" filename="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/MainActivity.java" />
+      <jump line="10" column="3" filename="$USER_HOME$/Projects/tochegando-android/app/src/main/java/com/example/jackson/tochegando/ToChegandoApplication.java" />
+      <jump line="13" column="7" filename="$USER_HOME$/Projects/tochegando-android/app/src/main/java/com/example/jackson/tochegando/ToChegandoApplication.java" />
+      <jump line="10" column="21" filename="$USER_HOME$/Projects/tochegando-android/app/src/main/java/com/example/jackson/tochegando/MainActivity.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBGYWJyaWMud2l0aCh0aGlzLCBuZXcgQ3Jhc2hseXRpY3MoKSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>undefinedCategory</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IFRoZSB0d28gbWV0aG9kcyBiZWxvdyBzaG91bGQgYmUgYSBzaW5nbGUgbWV0aG9kIHdpdGggYSBvcHRpb25hbCBwYXJhbXRlcg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBGYWJyaWMud2l0aCh0aGlzLCBuZXcgQ3Jhc2hseXRpY3MoKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVuZGVmaW5lZENhdGVnb3J5ID0gQ2F0ZWdvcnkoKS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2F0ZWdvcnkgY2F0ZWdvcnlVbmRlZmluZWQgPSBuZXcgQ2F0ZWdvcnkoKS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSBjYXRlZ29yeVVuZGVmaW5lZCA9IG5ldyBDYXRlZ29yeS5pbnN0YW5jZS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFUeXBlID0gZGF0YVR5cGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVHJhY2tlciB0cmFja2VyOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgR29vZ2xlQW5hbHl0aWNzIGFuYWx5dGljczsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWdBbmFseXRpY3MoKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>edit ToChegandoApplication.java</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>&quot;+p</entry>
+        <entry>w</entry>
+        <entry>edit MainActivity.java</entry>
+        <entry>edit ToChegandoApplication.java</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

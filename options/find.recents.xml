@@ -1,0 +1,40 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Bean</find>
+      <find>number</find>
+      <find>numberA</find>
+      <find>rate</find>
+      <find>rating</find>
+      <find>aired_</find>
+      <find>ow</find>
+      <find>favorite</find>
+      <find>gend</find>
+      <find>genre</find>
+      <find>View</find>
+      <find>%f</find>
+      <find>color</find>
+      <find>.save()</find>
+      <find>updateListAndDatabaseItemIfPossible</find>
+      <find>start</find>
+      <find>MainActivity ==&gt; Series: 13</find>
+      <find>makeText</find>
+      <find>makeText(</find>
+      <find>show(</find>
+      <find>d</find>
+      <find>d(</find>
+      <find>logger</find>
+      <find>door</find>
+      <find>br.com.castrodev.orcamento</find>
+      <find>ApiClient</find>
+      <find>picasso</find>
+      <find>save(</find>
+      <find>Logger.init</find>
+      <find>compile</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Constants.TAG_</replace>
+      <replace>br.com.orcamento</replace>
+    </replaceStrings>
+  </component>
+</application>

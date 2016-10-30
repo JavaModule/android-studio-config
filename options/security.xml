@@ -1,0 +1,24 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="801982572c927ec38470bddbd3a5a22f4b2345700b895a03f3e4e52731cc4fb1" />
+          <option value="835e8cf0c66636b76d01212e2114802324c5a3b0b669041a0ae7177432b5c9fc" />
+          <option value="961fd0976872db3638651804e090dcdfe623f05054c3b039941e5b18c9ef2214" />
+          <option value="ad0f26ed7a75d3c9fd8c8e255c07a82d401bf16794be0a0c568f5ec0b126308e" />
+          <option value="cf8eaf94ef4b4ecc2460805f2fe728172390cd744792f484672f86542735a30f" />
+          <option value="37f5b05a6aaf5333ab08987ac84b0747dc672eb2cd67ebe9de2511dbb6a2b017" />
+        </array>
+        <array>
+          <option value="1467b57f11695a8ae1853c99e8b7568a5bfab42c192c869c23ba18503c40efd7" />
+          <option value="df7989a8a8768f4c8499e9a261d6d986498e1f8ac11dbcdfa5e159876e92114d" />
+          <option value="aea44ff4327cd41ded9c144ef8987a9c962655b2288e55913c582e466ae63d8d937cf6987fdfbec372454f57bce83e38" />
+          <option value="3c86f417c76d1239de1fd2ebbdae0a546aaa86ec2f71b9a7ca97606c8c3b2b51" />
+          <option value="3c86f417c76d1239de1fd2ebbdae0a546aaa86ec2f71b9a7ca97606c8c3b2b51" />
+          <option value="e9bce6e721982037844f82018c208fbe90aca056c649862cc8a1867f7229d167" />
+        </array>
+      </array>
+    </option>
+  </component>
+</application>
