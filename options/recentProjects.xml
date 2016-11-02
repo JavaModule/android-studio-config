@@ -3,9 +3,9 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/Projects/tochegando-android" />
+        <option value="$USER_HOME$/Projects/logger" />
         <option value="$USER_HOME$/Projects/android-testing" />
         <option value="$USER_HOME$/Projects/orcamento-android" />
-        <option value="$USER_HOME$/Projects/logger" />
         <option value="$USER_HOME$/Projects/series-track-android" />
         <option value="$USER_HOME$/Projects/teste-rxjava-android" />
         <option value="$USER_HOME$/Projects/Algorithm" />
@@ -95,7 +95,7 @@
               <option name="build" value="AI-145.3360264" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1477516950538" />
+              <option name="projectOpenTimestamp" value="1478047510596" />
               <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>
@@ -161,7 +161,7 @@
               <option name="build" value="AI-145.3360264" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1477797064150" />
+              <option name="projectOpenTimestamp" value="1478125233879" />
               <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>

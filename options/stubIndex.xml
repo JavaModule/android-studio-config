@@ -2,8 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="markdown.flexmark.example.option.index" />
-        <option value="java.unit.tree" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
@@ -25,6 +23,8 @@
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex" />
+        <option value="markdown.flexmark.example.option.index" />
+        <option value="java.unit.tree" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
         <option value="java.method.parameter.types" />

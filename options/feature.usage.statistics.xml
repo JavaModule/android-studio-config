@@ -14,7 +14,7 @@
     <feature id="refactoring.convertToLiteral" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="1754" last-shown="0" last-used="1477595879156" shown-count="0" />
+    <feature id="editing.select.word" count="1757" last-shown="0" last-used="1478047987651" shown-count="0" />
     <feature id="navigation.class.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="654" last-shown="0" last-used="1477519178526" shown-count="0" />
     <feature id="editing.completion.smarttype.general" count="1" last-shown="1477576449516" last-used="1474136742684" shown-count="1669" />

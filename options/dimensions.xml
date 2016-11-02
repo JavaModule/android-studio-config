@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.1366.0.1440.900" x="1757" y="348" />
+    <location key="FileChooserDialogImpl.1366.0.1440.900" x="1757" y="376" />
     <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="394" y="241" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1366.0.1440.900" x="1801" y="369" />
@@ -8,7 +8,7 @@
     <location key="SettingsEditor.0.0.1366.768" x="170" y="104" />
     <location key="#Browse_Repositories.0.0.1366.768" x="532" y="102" />
     <location key="#Updates.0.0.1366.768" x="456" y="287" />
-    <location key="SettingsEditor.1366.0.1440.900" x="1572" y="208" />
+    <location key="SettingsEditor.1366.0.1440.900" x="1366" y="52" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1366.0.1440.900" x="1814" y="416" />
     <location key="findTextDialog.1366.0.1440.900" x="1843" y="229" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1366.0.1440.900" x="1919" y="139" />
@@ -65,32 +65,32 @@
     <size key="#Browse_Repositories.0.0.1366.768" width="824" height="666" />
     <size key="javadoc.popup.0.0.1366.768" width="557" height="216" />
     <size key="#Updates.0.0.1366.768" width="483" height="271" />
-    <size key="SettingsEditor.1366.0.1440.900" width="1052" height="692" />
+    <size key="SettingsEditor.1366.0.1440.900" width="1440" height="848" />
     <size key="javadoc.popup.1366.0.1440.900" width="557" height="188" />
     <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1366.0.1440.900" width="524" height="484" />
     <size key="findTextDialog.1366.0.1440.900" width="475" height="548" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1366.0.1440.900" width="324" height="727" />
-    <size key="GridCell.Tab.0.left.1366.0.1440.900" width="1394" height="221" />
-    <size key="GridCell.Tab.0.center.1366.0.1440.900" width="1394" height="221" />
-    <size key="GridCell.Tab.0.right.1366.0.1440.900" width="1394" height="221" />
-    <size key="GridCell.Tab.0.bottom.1366.0.1440.900" width="1394" height="221" />
-    <size key="GridCell.Tab.1.left.1366.0.1440.900" width="1394" height="361" />
-    <size key="GridCell.Tab.1.center.1366.0.1440.900" width="1394" height="361" />
-    <size key="GridCell.Tab.1.right.1366.0.1440.900" width="1394" height="361" />
-    <size key="GridCell.Tab.1.bottom.1366.0.1440.900" width="1394" height="361" />
+    <size key="GridCell.Tab.0.left.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.0.center.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.0.right.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.1.left.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.1.center.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.1.right.1366.0.1440.900" width="1394" height="359" />
+    <size key="GridCell.Tab.1.bottom.1366.0.1440.900" width="1394" height="359" />
     <size key="deploy.picker.dialog.1366.0.1440.900" width="624" height="466" />
     <size key="#app.1366.0.1440.900" width="497" height="730" />
     <size key="#Project_Structure.1366.0.1440.900" width="820" height="674" />
     <size key="#xdebugger.evaluate.1366.0.1440.900" width="589" height="423" />
     <size key="lint.notification.1366.0.1440.900" width="621" height="504" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1320" height="285" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1320" height="285" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1394" height="191" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" width="324" height="714" />
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="714" height="528" />
     <size key="deploy.picker.dialog.0.0.1366.768" width="764" height="418" />
