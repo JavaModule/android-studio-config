@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/utils/SetExpensesAndIncomeAsUndefined.kt" timestamp="1475195122861">
@@ -132,6 +132,12 @@
       <file name="$USER_HOME$/Documents/orcamento-android/build.gradle" timestamp="1473732666246">
         <mark key="[" line="7" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/series-track-android/app/src/main/java/com/example/jackson/gfg_teste/views/adapters/SeasonsAdapter.java" timestamp="1478283529695">
+        <mark key="[" line="112" column="14" />
+        <mark key="]" line="112" column="13" />
+        <mark key="^" line="112" column="13" />
+        <mark key="." line="112" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/models/Category.java" timestamp="1474173493503">
         <mark key="[" line="66" column="86" />
         <mark key="]" line="66" column="85" />
@@ -227,6 +233,9 @@
         <mark key="^" line="102" column="35" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/series-track-android/app/src/main/res/values/strings.xml" timestamp="1478283161918">
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/ExpensesAndIncomesListFragment.java" timestamp="1473901065758">
         <mark key="[" line="116" column="9" />
         <mark key="]" line="116" column="8" />
@@ -288,41 +297,41 @@
       <jump line="10" column="21" filename="$USER_HOME$/Projects/tochegando-android/app/src/main/java/com/example/jackson/tochegando/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBGYWJyaWMud2l0aCh0aGlzLCBuZXcgQ3Jhc2hseXRpY3MoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>R.id.textview_season_number</text>
       </register>
       <register name="-" type="4">
-        <text>undefinedCategory</text>
+        <text>R.id.textview_season_number</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAvL1RPRE86IFRoZSB0d28gbWV0aG9kcyBiZWxvdyBzaG91bGQgYmUgYSBzaW5nbGUgbWV0aG9kIHdpdGggYSBvcHRpb25hbCBwYXJhbXRlcg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGYWJyaWMud2l0aCh0aGlzLCBuZXcgQ3Jhc2hseXRpY3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iaXRlbV9zZWFzb25fZXBpc29kZSI+RXBpc29kZTogJXM8L3N0cmluZz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGYWJyaWMud2l0aCh0aGlzLCBuZXcgQ3Jhc2hseXRpY3MoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVuZGVmaW5lZENhdGVnb3J5ID0gQ2F0ZWdvcnkoKS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2F0ZWdvcnkgY2F0ZWdvcnlVbmRlZmluZWQgPSBuZXcgQ2F0ZWdvcnkoKS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVuZGVmaW5lZENhdGVnb3J5ID0gQ2F0ZWdvcnkoKS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSBjYXRlZ29yeVVuZGVmaW5lZCA9IG5ldyBDYXRlZ29yeS5pbnN0YW5jZS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2F0ZWdvcnkgY2F0ZWdvcnlVbmRlZmluZWQgPSBuZXcgQ2F0ZWdvcnkoKS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFUeXBlID0gZGF0YVR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSBjYXRlZ29yeVVuZGVmaW5lZCA9IG5ldyBDYXRlZ29yeS5pbnN0YW5jZS5nZXRVbmRlZmluZWRDYXRlZ29yeSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVHJhY2tlciB0cmFja2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFUeXBlID0gZGF0YVR5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgR29vZ2xlQW5hbHl0aWNzIGFuYWx5dGljczsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVHJhY2tlciB0cmFja2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdBbmFseXRpY3MoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgR29vZ2xlQW5hbHl0aWNzIGFuYWx5dGljczsK</text>
       </register>
       <register name=":" type="4">
         <text>edit ToChegandoApplication.java</text>
@@ -339,6 +348,8 @@
         <entry>w</entry>
         <entry>edit MainActivity.java</entry>
         <entry>edit ToChegandoApplication.java</entry>
+        <entry>SeasonsAdapter.java</entry>
+        <entry>BaseActivity.java</entry>
       </history-cmd>
       <history-expr />
       <history-input />

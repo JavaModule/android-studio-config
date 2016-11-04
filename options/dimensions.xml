@@ -1,11 +1,11 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.1366.0.1440.900" x="1757" y="376" />
+    <location key="FileChooserDialogImpl.1366.0.1440.900" x="1757" y="432" />
     <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="394" y="241" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1366.0.1440.900" x="1801" y="369" />
-    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="261" y="89" />
-    <location key="SettingsEditor.0.0.1366.768" x="170" y="104" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="261" y="102" />
+    <location key="SettingsEditor.0.0.1366.768" x="0" y="24" />
     <location key="#Browse_Repositories.0.0.1366.768" x="532" y="102" />
     <location key="#Updates.0.0.1366.768" x="456" y="287" />
     <location key="SettingsEditor.1366.0.1440.900" x="1366" y="52" />
@@ -58,10 +58,11 @@
     <location key="ProcessPopupWindow.0.0.1366.768" x="1019" y="600" />
     <location key="replaceTextDialog.0.0.1366.768" x="440" y="135" />
     <location key="ReplaceDuplicatesPrompt.0.0.1366.768" x="119" y="383" />
+    <location key="NewModule_or_Project.wizard.1366.0.1440.900" x="1671" y="213" />
     <size key="FileChooserDialogImpl.1366.0.1440.900" width="510" height="466" />
     <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1366.0.1440.900" width="552" height="209" />
     <size key="#Browse_JetBrains_Plugins_.0.0.1366.768" width="824" height="666" />
-    <size key="SettingsEditor.0.0.1366.768" width="1052" height="664" />
+    <size key="SettingsEditor.0.0.1366.768" width="1366" height="744" />
     <size key="#Browse_Repositories.0.0.1366.768" width="824" height="666" />
     <size key="javadoc.popup.0.0.1366.768" width="557" height="216" />
     <size key="#Updates.0.0.1366.768" width="483" height="271" />
@@ -83,14 +84,14 @@
     <size key="#Project_Structure.1366.0.1440.900" width="820" height="674" />
     <size key="#xdebugger.evaluate.1366.0.1440.900" width="589" height="423" />
     <size key="lint.notification.1366.0.1440.900" width="621" height="504" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1394" height="191" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1394" height="191" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1394" height="359" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1394" height="359" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" width="324" height="714" />
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="714" height="528" />
     <size key="deploy.picker.dialog.0.0.1366.768" width="764" height="418" />
@@ -147,5 +148,6 @@
     <size key="ProcessPopupWindow.0.0.1366.768" width="201" height="121" />
     <size key="replaceTextDialog.0.0.1366.768" width="475" height="604" />
     <size key="ReplaceDuplicatesPrompt.0.0.1366.768" width="1117" height="108" />
+    <size key="NewModule_or_Project.wizard.1366.0.1440.900" width="819" height="580" />
   </component>
 </application>

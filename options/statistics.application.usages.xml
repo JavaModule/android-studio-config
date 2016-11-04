@@ -1,81 +1,82 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="Git">
-      <project id="gfg-teste" values="config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.save.policy.STASH" collectionTime="1476393968355" />
-      <project id="tochegando-android" values="data.remotes.in.project.1,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,data.local.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1478046326877" />
-      <project id="Algorithm" values="config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1476708904143" />
-      <project id="placeholderj" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,data.remote.branches.count.2+,config.push.autoupdate.disabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled" collectionTime="1475787804231" />
-      <project id="logger" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,data.local.branches.count.2+" collectionTime="1478047510314" />
-      <project id="orcamento-android" values="config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,data.remote.branches.count.5+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1477577061288" />
-      <project id="teste-rxjava-android" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1477331013623" />
-      <project id="Brasileirao" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1475469324950" />
-      <project id="android-testing" values="data.remote.branches.count.5+,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.local.branches.count.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1477609743921" />
+      <project id="gfg-teste" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,data.remote.branches.count.2+,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1" collectionTime="1476393968355" />
+      <project id="tochegando-android" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1478223652055" />
+      <project id="android-testing" values="data.remotes.in.project.1,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remote.branches.count.5+,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1" collectionTime="1477609743921" />
+      <project id="Algorithm" values="config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1476708904143" />
+      <project id="teste-rxjava-android" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1477331013623" />
+      <project id="placeholderj" values="config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1475787804231" />
+      <project id="orcamento-android" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1478283124431" />
+      <project id="logger" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1478223746364" />
+      <project id="Brasileirao" values="config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1475469324950" />
+      <project id="series-track-android" values="data.local.branches.count.1,data.remote.branches.count.2+,data.remotes.in.project.1,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1478283537471" />
     </group>
     <group name="vcs">
       <project id="gfg-teste" values="Git" collectionTime="1476393968098" />
-      <project id="tochegando-android" values="Git" collectionTime="1478046326730" />
-      <project id="orcamento-android" values="Git" collectionTime="1477577061175" />
+      <project id="tochegando-android" values="Git" collectionTime="1478223651914" />
+      <project id="series-track-android" values="Git" collectionTime="1478283537284" />
       <project id="placeholderj" values="Git" collectionTime="1475787804087" />
-      <project id="logger" values="Git" collectionTime="1478047510192" />
+      <project id="logger" values="Git" collectionTime="1478223746304" />
       <project id="android-testing" values="Git" collectionTime="1477609743123" />
     </group>
-    <group name="frameworks">
-      <project id="gfg-teste" values="android,android-gradle,java-gradle" collectionTime="1476393968099" />
-      <project id="tochegando-android" values="java-gradle,android-gradle,android" collectionTime="1478046326731" />
-      <project id="Algorithm" values="android,android-gradle,java-gradle" collectionTime="1476708903757" />
-      <project id="placeholderj" values="android-gradle,java-gradle,android" collectionTime="1475787804087" />
-      <project id="logger" values="android,java-gradle,android-gradle" collectionTime="1478047510192" />
-      <project id="orcamento-android" values="java-gradle,android,android-gradle" collectionTime="1477577061175" />
-      <project id="teste-rxjava-android" values="android-gradle,android,java-gradle" collectionTime="1477331013488" />
-      <project id="Brasileirao" values="android-gradle,android,java-gradle" collectionTime="1475469324825" />
-      <project id="android-testing" values="android-gradle,java-gradle,android" collectionTime="1477609743124" />
-    </group>
     <group name="run-configuration-type-temp">
-      <project id="tochegando-android" values="JUnit" collectionTime="1478046326733" />
+      <project id="tochegando-android" values="JUnit" collectionTime="1478223651917" />
     </group>
     <group name="run-configuration-type">
       <project id="gfg-teste" values="AndroidRunConfigurationType" collectionTime="1476393968107" />
-      <project id="tochegando-android" values="AndroidRunConfigurationType" collectionTime="1478046326732" />
+      <project id="tochegando-android" values="AndroidRunConfigurationType" collectionTime="1478223651917" />
       <project id="Algorithm" values="AndroidRunConfigurationType" collectionTime="1476708903761" />
-      <project id="placeholderj" values="AndroidRunConfigurationType" collectionTime="1475787804087" />
-      <project id="logger" values="AndroidRunConfigurationType" collectionTime="1478047510192" />
-      <project id="orcamento-android" values="AndroidRunConfigurationType" collectionTime="1477577061177" />
       <project id="teste-rxjava-android" values="AndroidRunConfigurationType" collectionTime="1477331013490" />
-      <project id="Brasileirao" values="AndroidRunConfigurationType" collectionTime="1475469324825" />
+      <project id="placeholderj" values="AndroidRunConfigurationType" collectionTime="1475787804087" />
       <project id="android-testing" values="AndroidRunConfigurationType" collectionTime="1477609743124" />
+      <project id="Brasileirao" values="AndroidRunConfigurationType" collectionTime="1475469324825" />
+      <project id="series-track-android" values="AndroidRunConfigurationType" collectionTime="1478283537286" />
     </group>
     <group name="language-level">
       <project id="gfg-teste" values="JDK_1_8" collectionTime="1476393968341" />
-      <project id="tochegando-android" values="JDK_1_8,JDK_1_7" collectionTime="1478046326872" />
-      <project id="Algorithm" values="JDK_1_7" collectionTime="1476708904140" />
-      <project id="placeholderj" values="JDK_1_7,JDK_1_8" collectionTime="1475787804230" />
-      <project id="logger" values="JDK_1_7,JDK_1_3" collectionTime="1478047510314" />
-      <project id="orcamento-android" values="JDK_1_8,JDK_1_7" collectionTime="1477577061285" />
-      <project id="teste-rxjava-android" values="JDK_1_8" collectionTime="1477331013622" />
-      <project id="Brasileirao" values="JDK_1_8,JDK_1_7" collectionTime="1475469324950" />
+      <project id="tochegando-android" values="JDK_1_7,JDK_1_8" collectionTime="1478223652046" />
       <project id="android-testing" values="JDK_1_7" collectionTime="1477609743917" />
+      <project id="Algorithm" values="JDK_1_7" collectionTime="1476708904140" />
+      <project id="teste-rxjava-android" values="JDK_1_8" collectionTime="1477331013622" />
+      <project id="placeholderj" values="JDK_1_8,JDK_1_7" collectionTime="1475787804230" />
+      <project id="orcamento-android" values="JDK_1_3" collectionTime="1478283124430" />
+      <project id="logger" values="JDK_1_8" collectionTime="1478223746364" />
+      <project id="Brasileirao" values="JDK_1_7,JDK_1_8" collectionTime="1475469324950" />
+      <project id="series-track-android" values="JDK_1_8" collectionTime="1478283537441" />
+    </group>
+    <group name="frameworks">
+      <project id="gfg-teste" values="android,java-gradle,android-gradle" collectionTime="1476393968099" />
+      <project id="tochegando-android" values="android-gradle,android,java-gradle" collectionTime="1478223651915" />
+      <project id="android-testing" values="android,android-gradle,java-gradle" collectionTime="1477609743124" />
+      <project id="Algorithm" values="android-gradle,android,java-gradle" collectionTime="1476708903757" />
+      <project id="placeholderj" values="android-gradle,android,java-gradle" collectionTime="1475787804087" />
+      <project id="logger" values="android" collectionTime="1478223746304" />
+      <project id="series-track-android" values="java-gradle,android-gradle,android" collectionTime="1478283537285" />
+      <project id="Brasileirao" values="java-gradle,android-gradle,android" collectionTime="1475469324825" />
+      <project id="teste-rxjava-android" values="java-gradle,android-gradle,android" collectionTime="1477331013488" />
     </group>
     <group name="file-type">
-      <project id="gfg-teste" values="AIDL,JAVA,Groovy,PLAIN_TEXT,IDEA_MODULE,ARCHIVE,ProGuard File,Images,Git file,Properties,UNKNOWN,XML,CLASS" collectionTime="1476393968284" />
-      <project id="tochegando-android" values="Properties,ProGuard File,ARCHIVE,AIDL,Images,UNKNOWN,PLAIN_TEXT,Groovy,Git file,IDEA_MODULE,JAVA,XML" collectionTime="1478046326853" />
-      <project id="Algorithm" values="AIDL,Groovy,PLAIN_TEXT,JAVA,ARCHIVE,ProGuard File,Images,XML,IDEA_MODULE,Properties,Git file" collectionTime="1476708904106" />
-      <project id="placeholderj" values="Properties,Images,XML,AIDL,ProGuard File,PLAIN_TEXT,ARCHIVE,Git file,JAVA,IDEA_MODULE,Groovy" collectionTime="1475787804228" />
-      <project id="logger" values="AIDL,ARCHIVE,JAVA,Git file,Images,PLAIN_TEXT,Properties,XML,Markdown,ProGuard File,Groovy,IDEA_MODULE" collectionTime="1478047510312" />
-      <project id="orcamento-android" values="JSON,JAVA,Manifest,Kotlin,Git file,IDEA_MODULE,Groovy,ProGuard File,XML,ARCHIVE,AIDL,Images,UNKNOWN,PLAIN_TEXT,Properties" collectionTime="1477577061268" />
-      <project id="teste-rxjava-android" values="JAVA,Properties,XML,PLAIN_TEXT,ARCHIVE,ProGuard File,Images,AIDL,Groovy,UNKNOWN,IDEA_MODULE,Git file" collectionTime="1477331013613" />
-      <project id="Brasileirao" values="ARCHIVE,AIDL,Properties,XML,PLAIN_TEXT,ProGuard File,Git file,JAVA,Groovy,IDEA_MODULE,Images,UNKNOWN" collectionTime="1475469324948" />
-      <project id="android-testing" values="Properties,Markdown,ARCHIVE,Groovy,Git file,Images,JAVA,AIDL,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1477609743904" />
+      <project id="gfg-teste" values="PLAIN_TEXT,Images,JAVA,IDEA_MODULE,Groovy,XML,Git file,AIDL,UNKNOWN,Properties,CLASS,ProGuard File,ARCHIVE" collectionTime="1476393968284" />
+      <project id="tochegando-android" values="Properties,AIDL,Groovy,ARCHIVE,Git file,JAVA,Images,ProGuard File,UNKNOWN,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1478223652026" />
+      <project id="android-testing" values="JAVA,IDEA_MODULE,Git file,Images,ARCHIVE,AIDL,PLAIN_TEXT,Markdown,Properties,XML,Groovy" collectionTime="1477609743904" />
+      <project id="Algorithm" values="Properties,AIDL,Git file,Groovy,JAVA,XML,ARCHIVE,PLAIN_TEXT,ProGuard File,IDEA_MODULE,Images" collectionTime="1476708904106" />
+      <project id="placeholderj" values="AIDL,JAVA,IDEA_MODULE,XML,Images,ProGuard File,Properties,Git file,PLAIN_TEXT,Groovy,ARCHIVE" collectionTime="1475787804228" />
+      <project id="logger" values="Properties,CLASS,XML,AIDL,UNKNOWN,PLAIN_TEXT,JSON,Images,ARCHIVE,SPI,JAVA,APK" collectionTime="1478223746363" />
+      <project id="series-track-android" values="ProGuard File,Images,XML,Properties,JAVA,AIDL,Git file,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,Groovy" collectionTime="1478283537434" />
+      <project id="Brasileirao" values="ARCHIVE,UNKNOWN,XML,ProGuard File,IDEA_MODULE,JAVA,Properties,Groovy,Images,PLAIN_TEXT,Git file,AIDL" collectionTime="1475469324948" />
+      <project id="teste-rxjava-android" values="XML,Images,Groovy,Git file,UNKNOWN,IDEA_MODULE,AIDL,Properties,PLAIN_TEXT,JAVA,ProGuard File,ARCHIVE" collectionTime="1477331013613" />
     </group>
     <group name="module type">
       <project id="gfg-teste" values="JAVA_MODULE" collectionTime="1476393968099" />
-      <project id="tochegando-android" values="JAVA_MODULE" collectionTime="1478046326731" />
+      <project id="tochegando-android" values="JAVA_MODULE" collectionTime="1478223651916" />
+      <project id="android-testing" values="JAVA_MODULE" collectionTime="1477609743124" />
       <project id="Algorithm" values="JAVA_MODULE" collectionTime="1476708903757" />
       <project id="placeholderj" values="JAVA_MODULE" collectionTime="1475787804087" />
-      <project id="logger" values="JAVA_MODULE" collectionTime="1478047510192" />
-      <project id="orcamento-android" values="JAVA_MODULE" collectionTime="1477577061176" />
-      <project id="teste-rxjava-android" values="JAVA_MODULE" collectionTime="1477331013488" />
+      <project id="logger" values="JAVA_MODULE" collectionTime="1478223746304" />
+      <project id="series-track-android" values="JAVA_MODULE" collectionTime="1478283537285" />
       <project id="Brasileirao" values="JAVA_MODULE" collectionTime="1475469324825" />
-      <project id="android-testing" values="JAVA_MODULE" collectionTime="1477609743124" />
+      <project id="teste-rxjava-android" values="JAVA_MODULE" collectionTime="1477331013488" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -99,7 +100,7 @@
       <entry feature="ide.settings.Project_Structure" count="2" />
       <entry feature="ide.settings.Updates" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="1" />
-      <entry feature="ideaapp.started" count="102" />
+      <entry feature="ideaapp.started" count="106" />
       <entry feature="terminal.linux" count="19" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
