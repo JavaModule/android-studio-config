@@ -482,6 +482,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.cnd">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="fr.tolc.jahia.intellij.plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.coffee">
       <plugins>
         <option name="myPlugins">
