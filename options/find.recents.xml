@@ -1,40 +1,42 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Bean</find>
-      <find>number</find>
-      <find>numberA</find>
-      <find>rate</find>
-      <find>rating</find>
-      <find>aired_</find>
-      <find>ow</find>
-      <find>favorite</find>
-      <find>gend</find>
-      <find>genre</find>
-      <find>View</find>
-      <find>%f</find>
-      <find>color</find>
-      <find>.save()</find>
-      <find>updateListAndDatabaseItemIfPossible</find>
-      <find>start</find>
-      <find>MainActivity ==&gt; Series: 13</find>
-      <find>makeText</find>
-      <find>makeText(</find>
-      <find>show(</find>
-      <find>d</find>
-      <find>d(</find>
-      <find>logger</find>
-      <find>door</find>
-      <find>br.com.castrodev.orcamento</find>
-      <find>ApiClient</find>
-      <find>picasso</find>
-      <find>save(</find>
-      <find>Logger.init</find>
-      <find>compile</find>
+      <find>followers</find>
+      <find>MAX_DISK_CACHE_SIZE</find>
+      <find>calculateDiskCacheSize</find>
+      <find>imageView</find>
+      <find>viewContainer</find>
+      <find>changeViewsVisibility(</find>
+      <find>changeViewsVisibility</find>
+      <find>own</find>
+      <find>repository</find>
+      <find>saveTheFirstThirtyRepositories</find>
+      <find>OBJECT_</find>
+      <find>Values.OBJECT_</find>
+      <find>BaseModel implements Serializable</find>
+      <find>open_issues_coun</find>
+      <find>Repo</find>
+      <find>issue</find>
+      <find>mileston</find>
+      <find>com.desafioconcrete.models.Creator</find>
+      <find>Creator</find>
+      <find>Date</find>
+      <find>onGetreposi</find>
+      <find>private</find>
+      <find>network</find>
+      <find>id</find>
+      <find>List</find>
+      <find>length</find>
+      <find>Link</find>
+      <find>RealmList</find>
+      <find>creator</find>
+      <find>Parcelable</find>
     </findStrings>
     <replaceStrings>
       <replace>Constants.TAG_</replace>
       <replace>br.com.orcamento</replace>
+      <replace>Object.</replace>
+      <replace>BaseModel implements Parcelable</replace>
     </replaceStrings>
   </component>
 </application>

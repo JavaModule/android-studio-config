@@ -6,21 +6,21 @@
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V2" value="true" />
-    <property name="android-component-compatibility-check" value="1477757956984" />
+    <property name="android-component-compatibility-check" value="1479143002130" />
     <property name="com.google.gct.enable.cloud.testing" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/logger&#10;/home/jackson/Projects/android-testing&#10;/home/jackson/Projects/series-track-android&#10;/home/jackson/Downloads&#10;/home/jackson/Documents/orcamento-android/keystore/castrodev.keystore&#10;/home/jackson/Documents/orcamento-android&#10;/home/jackson/Documents&#10;/home/jackson/Projects/tochegando-android/keystore&#10;/home/jackson/Projects/placeholderj&#10;/home/jackson/Projects/Brasileirao&#10;/home/jackson/Projects/qfome-android&#10;/usr/lib/jvm/java-8-oracle&#10;/home/jackson/Projects/orcamento-android/keystore/castrodev.keystore&#10;/home/jackson/MEOCloud/Editors config/Dracula-OSX.jar&#10;/home/jackson/MEOCloud/Editors config/Dracula.jar&#10;/home/jackson/Projects/orcamento-android" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/javaneiros-android&#10;/home/jackson/Documents/desafio-concrete-android&#10;/home/jackson/Documents/slzrafael-desafio-android-808820fc5f85/Challenge&#10;/home/jackson/Pictures&#10;/home/jackson/Projects/placeholderj&#10;/home/jackson/Projects/placeholderj/placeholderj-core&#10;/home/jackson/Projects/logger&#10;/home/jackson/Projects/android-testing&#10;/home/jackson/Projects/series-track-android&#10;/home/jackson/Downloads&#10;/home/jackson/Documents/orcamento-android/keystore/castrodev.keystore&#10;/home/jackson/Documents/orcamento-android&#10;/home/jackson/Documents&#10;/home/jackson/Projects/tochegando-android/keystore&#10;/home/jackson/Projects/Brasileirao&#10;/home/jackson/Projects/qfome-android&#10;/usr/lib/jvm/java-8-oracle&#10;/home/jackson/Projects/orcamento-android/keystore/castrodev.keystore&#10;/home/jackson/MEOCloud/Editors config/Dracula-OSX.jar&#10;/home/jackson/MEOCloud/Editors config/Dracula.jar&#10;/home/jackson/Projects/orcamento-android" />
     <property name="lastTip" value="1" />
-    <property name="PLUGIN_FILTER" value="Kotlin&#10;fairy&#10;Crashlytics&#10;IdeaVim&#10;relative" />
+    <property name="PLUGIN_FILTER" value="relative&#10;jackson&#10;parce&#10;butter&#10;Android Studi" />
     <property name="installed.kotlin.plugin.version" value="1.0.4-release-Studio2.2-22" />
-    <property name="ideavim.statistics.timestamp" value="1478283128699" />
+    <property name="ideavim.statistics.timestamp" value="1479143011752" />
     <property name="export.settings.path" value="$USER_HOME$/MEOCloud/Editors config/Dracula-Ubuntu.jar" />
     <property name="kotlin.lastUpdateCheck" value="1477513740533" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="last.imported.location" value="$USER_HOME$/Projects/logger" />
+    <property name="last.imported.location" value="$USER_HOME$/Projects/javaneiros-android" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="LOG_FILTER_HISTORY" value="MainActivity ==&gt;&#10;TESTE&#10;MainActivity ==&gt; Testing numbers&#10;MainActivity&#10;TvShowDetailActivity ==&gt;" />
+    <property name="LOG_FILTER_HISTORY" value="ConcreteApplication ==&gt;&#10;PullRequestAdapter ==&gt; The first 10 items has been loaded... Hiding loading view!&#10;PullRequestsAdapter ==&gt; Itens load at the first time.&#10;PullRequestActivity ==&gt;&#10;PullRequestPresenter ==&gt;" />
     <property name="selected.color.option.type" value="LOGCAT_WARNING_OUTPUT" />
     <property name="KEYMAP" value="close&#10;close tab&#10;Select succeively increasing code blocks" />
     <property name="Copy.OpenInEditor" value="true" />
@@ -45,5 +45,7 @@
     <property name="ColorChooser.RecentColors" value="170-102-204-255,,,51-181-229-255,,,255-68-68-255,,,153-204-0-255,,,255-255-255-255,,,255-187-51-255" />
     <property name="AndroidPlatformName" value="Android API 25 Platform" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="SAVED_COMPANY_DOMAIN" value=".com" />
+    <property name="newly.installed.api.level" value="23" />
   </component>
 </application>

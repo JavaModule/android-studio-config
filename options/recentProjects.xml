@@ -2,24 +2,27 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Projects/desafio-concrete-android" />
+        <option value="$USER_HOME$/Projects/javaneiros-android" />
+        <option value="$USER_HOME$/Documents/slzrafael-desafio-android-808820fc5f85/Challenge" />
+        <option value="$USER_HOME$/Projects/placeholderj" />
+        <option value="$USER_HOME$/Projects/android-testing" />
         <option value="$USER_HOME$/Projects/series-track-android" />
         <option value="$USER_HOME$/Projects/orcamento-android" />
         <option value="$USER_HOME$/Projects/tochegando-android" />
-        <option value="$USER_HOME$/Projects/android-testing" />
         <option value="$USER_HOME$/Projects/teste-rxjava-android" />
         <option value="$USER_HOME$/Projects/Algorithm" />
         <option value="$USER_HOME$/Projects/gfg-teste" />
-        <option value="$USER_HOME$/Projects/placeholderj" />
         <option value="$USER_HOME$/Projects/Brasileirao" />
         <option value="$USER_HOME$/Projects/qfome-android" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Projects/series-track-android" />
+        <option value="$USER_HOME$/Projects/desafio-concrete-android" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Projects/series-track-android" />
+    <option name="lastPath" value="$USER_HOME$/Projects/desafio-concrete-android" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/Documents">
@@ -33,6 +36,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/desafio-concrete-android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3360264" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478808741302" />
+              <option name="buildTimestamp" value="1476759600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Documents/orcamento-android">
           <value>
             <RecentProjectMetaInfo>
@@ -40,6 +54,17 @@
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1477518219720" />
+              <option name="buildTimestamp" value="1476759600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/slzrafael-desafio-android-808820fc5f85/Challenge">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3360264" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478794787153" />
               <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>
@@ -72,7 +97,18 @@
               <option name="build" value="AI-145.3360264" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1477596239861" />
+              <option name="projectOpenTimestamp" value="1478443049838" />
+              <option name="buildTimestamp" value="1476759600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/desafio-concrete-android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3360264" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479162024993" />
               <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>
@@ -85,6 +121,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1476393815349" />
               <option name="buildTimestamp" value="1473912000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/javaneiros-android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3360264" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478881886414" />
+              <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -113,11 +160,11 @@
         <entry key="$USER_HOME$/Projects/placeholderj">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="AI-145.3276617" />
+              <option name="build" value="AI-145.3360264" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1475786338028" />
-              <option name="buildTimestamp" value="1473912000000" />
+              <option name="projectOpenTimestamp" value="1478637298297" />
+              <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
