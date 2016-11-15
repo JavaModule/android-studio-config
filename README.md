@@ -9,9 +9,17 @@ take a look in the list down below to checkout what settings has been changed.
 
 ## Settings turned on
 
+### Appearance & Behavior > Appearance
+* Theme: Darcula
+* Show memory indicator
+* Disable mnemonics in menu
+
+### Appearance & Behavior > System Settings
+* Save files automatically if application is idle for 15 sec.
+
 ### Editor > General > Auto import
 * Inser imports on past
-	* Change the selector to 'All'
+* Change the selector to 'All'
 * Optimize imports on the fly
 * Add unambiguous imports on the fly
 
@@ -23,6 +31,7 @@ take a look in the list down below to checkout what settings has been changed.
 
 ### Editor > General > Code Completion
 * Insert selected variant by typing dot, space, etc.
+* Show full signatures
 
 ### Editor > General > Code Folding
 * Multiline comments
@@ -40,7 +49,7 @@ take a look in the list down below to checkout what settings has been changed.
 	* Insert the 's' value in the field.
 
 ### Inspections > Java
-* Check the 'J2ME Issues' option.
+* J2ME Issues.
 
 ## Color theme
 * [Dracula](https://draculatheme.com/jetbrains/).

@@ -10,6 +10,9 @@
         <mark key="^" line="61" column="35" />
         <mark key="." line="61" column="35" />
       </file>
+      <file name="/fragment.java" timestamp="1479225232348">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="59" column="12" filename="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/MainActivity.java" />

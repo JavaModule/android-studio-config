@@ -7,6 +7,7 @@
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="true" />
     <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
