@@ -17,7 +17,6 @@ options/project.default.xml
 options/ui.lnf.xml
 options/dimensions.xml
 options/feature.usage.statistics.xml
-options/laf.xml
 options/statistics.application.usages.xml
 options/updates.xml
 options/recentProjects.xml
