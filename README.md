@@ -17,6 +17,7 @@ take a look in the list down below to checkout what settings has been changed.
 
 ### Editor > General > Appearance
 * Use block caret
+* Show line numbers
 * Show white spaces
 * Show CSS color preview as background
 
