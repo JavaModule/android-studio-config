@@ -9,37 +9,37 @@ take a look in the list down below to checkout what settings has been changed.
 
 ## Settings turned on
 
-### Auto import
+### Editor > General > Auto import
 * Inser imports on past
 	* Change the selector to 'All'
 * Optimize imports on the fly
 * Add unambiguous imports on the fly
 
-### Appearance
+### Editor > General > Appearance
 * Use block caret
 * Show white spaces
 * Show CSS color preview as background
 
-### Code Completion
+### Editor > General > Code Completion
 * Insert selected variant by typing dot, space, etc.
 
-### Code Folding
+### Editor > General > Code Folding
 * Multiline comments
 * Lambdas
 
-### Smart Keys
+### Editor > General > Smart Keys
 * User "CamelHumps" words
 * Surround selection on typing quote or brace
 * Add quotes for attribute value on typing '='
 
-### Code Style
-* Java > Code Generation > Field > Name prefix
+### Code Style > Java > Code Generation
+* Field > Name prefix
 	* Insert the 'm' value in the field.
-* Java > Code Generation > Static field > Name prefix
+* Static field > Name prefix
 	* Insert the 's' value in the field.
 
-### Inspections
-* Java > J2ME Issues
+### Inspections > Java
+* Check the 'J2ME Issues' option.
 
 ## Color theme
 * [Dracula](https://draculatheme.com/jetbrains/).
