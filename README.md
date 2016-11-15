@@ -3,6 +3,10 @@ This are the configurations that I've been using on my daily work. If you decide
 I also use a different color theme and over time I also start use some plugins so
 take a look in the list down below to checkout what settings has been changed.
 
+## Preview
+
+![alt tag](images/android-studio-image.png)
+
 ## Settings turned on
 
 ### Auto import
@@ -48,3 +52,8 @@ take a look in the list down below to checkout what settings has been changed.
 * [Fabric for Android Studio](https://fabric.io/downloads/android)
 * [.ignore](https://github.com/hsz/idea-gitignore)
 * [TestFairy Integration](https://docs.testfairy.com/Android/Uploading_with_Android_Studio.html)
+* [Android Studio Prettify](https://github.com/Haehnchen/idea-android-studio-plugin)
+* [Android ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny)
+* [RoboPOJOGenerator](https://github.com/robohorse/RoboPOJOGenerator)
+* [Android Parcelable code generator](https://github.com/mcharmas/android-parcelable-intellij-plugin)
+* [Android Parcelable code generator(for Kotlin)](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin)
