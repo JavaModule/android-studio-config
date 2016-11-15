@@ -1,37 +1,9 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="Git">
-      <project id="gfg-teste" values="config.push.update.all.roots.enabled,data.local.branches.count.2+,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1476393968355" />
-      <project id="tochegando-android" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1478223652055" />
-      <project id="series-track-android" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,data.remote.branches.count.2+,data.local.branches.count.1" collectionTime="1478301666742" />
-      <project id="desafio-concrete-android" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1479126967486" />
-      <project id="Algorithm" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1476708904143" />
-      <project id="javaneiros-android" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1478882282597" />
-      <project id="logger" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1478223746364" />
-      <project id="placeholderj" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,data.remotes.in.project.1,data.local.branches.count.2+,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1478639720051" />
-      <project id="orcamento-android" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1478283124431" />
-      <project id="teste-rxjava-android" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1477331013623" />
-      <project id="Challenge" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1478794793579" />
-      <project id="Brasileirao" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1475469324950" />
-      <project id="android-testing" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remotes.in.project.1,data.local.branches.count.1,data.remote.branches.count.5+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1478450674142" />
-    </group>
-    <group name="vcs">
-      <project id="gfg-teste" values="Git" collectionTime="1476393968098" />
-      <project id="tochegando-android" values="Git" collectionTime="1478223651914" />
-      <project id="desafio-concrete-android" values="Git" collectionTime="1479126967178" />
-      <project id="series-track-android" values="Git" collectionTime="1478301666553" />
-      <project id="javaneiros-android" values="Git" collectionTime="1478882282376" />
-      <project id="placeholderj" values="Git" collectionTime="1478639719882" />
-      <project id="android-testing" values="Git" collectionTime="1478450674039" />
-      <project id="logger" values="Git" collectionTime="1478223746304" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="tochegando-android" values="JUnit" collectionTime="1478223651917" />
-    </group>
     <group name="run-configuration-type">
       <project id="gfg-teste" values="AndroidRunConfigurationType" collectionTime="1476393968107" />
       <project id="tochegando-android" values="AndroidRunConfigurationType" collectionTime="1478223651917" />
-      <project id="desafio-concrete-android" values="AndroidRunConfigurationType" collectionTime="1479126967183" />
+      <project id="desafio-concrete-android" values="AndroidRunConfigurationType" collectionTime="1479169395112" />
       <project id="Algorithm" values="AndroidRunConfigurationType" collectionTime="1476708903761" />
       <project id="teste-rxjava-android" values="AndroidRunConfigurationType" collectionTime="1477331013490" />
       <project id="placeholderj" values="AndroidRunConfigurationType" collectionTime="1478639719884" />
@@ -40,26 +12,11 @@
       <project id="Brasileirao" values="AndroidRunConfigurationType" collectionTime="1475469324825" />
       <project id="series-track-android" values="AndroidRunConfigurationType" collectionTime="1478301666555" />
     </group>
-    <group name="language-level">
-      <project id="gfg-teste" values="JDK_1_8" collectionTime="1476393968341" />
-      <project id="tochegando-android" values="JDK_1_7,JDK_1_8" collectionTime="1478223652046" />
-      <project id="series-track-android" values="JDK_1_8" collectionTime="1478301666731" />
-      <project id="desafio-concrete-android" values="JDK_1_8" collectionTime="1479126967466" />
-      <project id="Algorithm" values="JDK_1_7" collectionTime="1476708904140" />
-      <project id="javaneiros-android" values="JDK_1_8" collectionTime="1478882282579" />
-      <project id="logger" values="JDK_1_8" collectionTime="1478223746364" />
-      <project id="placeholderj" values="JDK_1_7" collectionTime="1478639720044" />
-      <project id="orcamento-android" values="JDK_1_3" collectionTime="1478283124430" />
-      <project id="teste-rxjava-android" values="JDK_1_8" collectionTime="1477331013622" />
-      <project id="Challenge" values="JDK_1_7,JDK_1_8" collectionTime="1478794793579" />
-      <project id="Brasileirao" values="JDK_1_7,JDK_1_8" collectionTime="1475469324950" />
-      <project id="android-testing" values="JDK_1_8,JDK_1_7" collectionTime="1478450674140" />
-    </group>
     <group name="frameworks">
       <project id="gfg-teste" values="android-gradle,java-gradle,android" collectionTime="1476393968099" />
       <project id="tochegando-android" values="android,java-gradle,android-gradle" collectionTime="1478223651915" />
       <project id="placeholderj" values="android,java-gradle,android-gradle" collectionTime="1478639719883" />
-      <project id="desafio-concrete-android" values="android-gradle,java-gradle,android" collectionTime="1479126967179" />
+      <project id="desafio-concrete-android" values="android,java-gradle,android-gradle" collectionTime="1479169395110" />
       <project id="Algorithm" values="android,android-gradle,java-gradle" collectionTime="1476708903757" />
       <project id="javaneiros-android" values="android-gradle,android" collectionTime="1478882282377" />
       <project id="series-track-android" values="android,android-gradle,java-gradle" collectionTime="1478301666554" />
@@ -69,11 +26,24 @@
       <project id="Brasileirao" values="java-gradle,android,android-gradle" collectionTime="1475469324825" />
       <project id="teste-rxjava-android" values="java-gradle,android-gradle,android" collectionTime="1477331013488" />
     </group>
+    <group name="vcs">
+      <project id="gfg-teste" values="Git" collectionTime="1476393968098" />
+      <project id="tochegando-android" values="Git" collectionTime="1478223651914" />
+      <project id="desafio-concrete-android" values="Git" collectionTime="1479169395109" />
+      <project id="series-track-android" values="Git" collectionTime="1478301666553" />
+      <project id="javaneiros-android" values="Git" collectionTime="1478882282376" />
+      <project id="placeholderj" values="Git" collectionTime="1478639719882" />
+      <project id="android-testing" values="Git" collectionTime="1478450674039" />
+      <project id="logger" values="Git" collectionTime="1478223746304" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="tochegando-android" values="JUnit" collectionTime="1478223651917" />
+    </group>
     <group name="file-type">
       <project id="gfg-teste" values="CLASS,JAVA,ProGuard File,Properties,ARCHIVE,PLAIN_TEXT,Git file,XML,Images,UNKNOWN,IDEA_MODULE,AIDL,Groovy" collectionTime="1476393968284" />
       <project id="tochegando-android" values="Git file,AIDL,PLAIN_TEXT,UNKNOWN,Groovy,Properties,JAVA,ProGuard File,XML,ARCHIVE,Images,IDEA_MODULE" collectionTime="1478223652026" />
       <project id="placeholderj" values="Groovy,PLAIN_TEXT,AIDL,Images,Git file,IDEA_MODULE,XML,ProGuard File,ARCHIVE,Markdown,Properties,JAVA" collectionTime="1478639720021" />
-      <project id="desafio-concrete-android" values="XML,IDEA_MODULE,Properties,AIDL,PLAIN_TEXT,Git file,Markdown,Images,JAVA,Groovy,UNKNOWN,ARCHIVE,ProGuard File" collectionTime="1479126967373" />
+      <project id="desafio-concrete-android" values="ProGuard File,IDEA_MODULE,Groovy,Markdown,XML,Git file,Properties,ARCHIVE,PLAIN_TEXT,AIDL,JAVA,Images,UNKNOWN" collectionTime="1479169395240" />
       <project id="Algorithm" values="Properties,Images,JAVA,IDEA_MODULE,ProGuard File,XML,PLAIN_TEXT,AIDL,Git file,ARCHIVE,Groovy" collectionTime="1476708904106" />
       <project id="javaneiros-android" values="Properties,Git file,ARCHIVE,Adobe Photoshop,PLAIN_TEXT,Images,JAVA,HTML,ProGuard File,CSS,JSON,Groovy,UNKNOWN,YAML,XML,IDEA_MODULE,Markdown" collectionTime="1478882282563" />
       <project id="series-track-android" values="ARCHIVE,IDEA_MODULE,XML,PLAIN_TEXT,JAVA,Images,AIDL,ProGuard File,Properties,Git file,Groovy" collectionTime="1478301666714" />
@@ -87,7 +57,7 @@
       <project id="gfg-teste" values="JAVA_MODULE" collectionTime="1476393968099" />
       <project id="tochegando-android" values="JAVA_MODULE" collectionTime="1478223651916" />
       <project id="placeholderj" values="JAVA_MODULE" collectionTime="1478639719883" />
-      <project id="desafio-concrete-android" values="JAVA_MODULE" collectionTime="1479126967180" />
+      <project id="desafio-concrete-android" values="JAVA_MODULE" collectionTime="1479169395110" />
       <project id="Algorithm" values="JAVA_MODULE" collectionTime="1476708903757" />
       <project id="javaneiros-android" values="JAVA_MODULE" collectionTime="1478882282378" />
       <project id="series-track-android" values="JAVA_MODULE" collectionTime="1478301666554" />
@@ -96,6 +66,36 @@
       <project id="Challenge" values="JAVA_MODULE" collectionTime="1478794793485" />
       <project id="Brasileirao" values="JAVA_MODULE" collectionTime="1475469324825" />
       <project id="teste-rxjava-android" values="JAVA_MODULE" collectionTime="1477331013488" />
+    </group>
+    <group name="Git">
+      <project id="gfg-teste" values="config.push.update.all.roots.enabled,data.local.branches.count.2+,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1476393968355" />
+      <project id="tochegando-android" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1478223652055" />
+      <project id="series-track-android" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,data.remote.branches.count.2+,data.local.branches.count.1" collectionTime="1478301666742" />
+      <project id="desafio-concrete-android" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1479169395290" />
+      <project id="Algorithm" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1476708904143" />
+      <project id="javaneiros-android" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1478882282597" />
+      <project id="logger" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1478223746364" />
+      <project id="placeholderj" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,data.remotes.in.project.1,data.local.branches.count.2+,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1478639720051" />
+      <project id="orcamento-android" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1478283124431" />
+      <project id="teste-rxjava-android" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1477331013623" />
+      <project id="Challenge" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1478794793579" />
+      <project id="Brasileirao" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1475469324950" />
+      <project id="android-testing" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remotes.in.project.1,data.local.branches.count.1,data.remote.branches.count.5+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1478450674142" />
+    </group>
+    <group name="language-level">
+      <project id="gfg-teste" values="JDK_1_8" collectionTime="1476393968341" />
+      <project id="tochegando-android" values="JDK_1_7,JDK_1_8" collectionTime="1478223652046" />
+      <project id="series-track-android" values="JDK_1_8" collectionTime="1478301666731" />
+      <project id="desafio-concrete-android" values="JDK_1_8" collectionTime="1479169395272" />
+      <project id="Algorithm" values="JDK_1_7" collectionTime="1476708904140" />
+      <project id="javaneiros-android" values="JDK_1_8" collectionTime="1478882282579" />
+      <project id="logger" values="JDK_1_8" collectionTime="1478223746364" />
+      <project id="placeholderj" values="JDK_1_7" collectionTime="1478639720044" />
+      <project id="orcamento-android" values="JDK_1_3" collectionTime="1478283124430" />
+      <project id="teste-rxjava-android" values="JDK_1_8" collectionTime="1477331013622" />
+      <project id="Challenge" values="JDK_1_7,JDK_1_8" collectionTime="1478794793579" />
+      <project id="Brasileirao" values="JDK_1_7,JDK_1_8" collectionTime="1475469324950" />
+      <project id="android-testing" values="JDK_1_8,JDK_1_7" collectionTime="1478450674140" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -123,7 +123,7 @@
       <entry feature="ideaapp.started" count="129" />
       <entry feature="terminal.linux" count="19" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
     </counts>
   </component>
 </application>

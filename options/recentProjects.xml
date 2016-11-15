@@ -2,7 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/Projects/desafio-concrete-android" />
+        <option value="$USER_HOME$/Projects/consuming-gitgub-api-android" />
         <option value="$USER_HOME$/Projects/javaneiros-android" />
         <option value="$USER_HOME$/Documents/slzrafael-desafio-android-808820fc5f85/Challenge" />
         <option value="$USER_HOME$/Projects/placeholderj" />
@@ -22,7 +22,7 @@
         <option value="$USER_HOME$/Projects/desafio-concrete-android" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Projects/desafio-concrete-android" />
+    <option name="lastPath" value="$USER_HOME$/Projects/consuming-gitgub-api-android" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/Documents">
@@ -98,6 +98,17 @@
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1478443049838" />
+              <option name="buildTimestamp" value="1476759600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/consuming-gitgub-api-android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-145.3360264" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479169467757" />
               <option name="buildTimestamp" value="1476759600000" />
             </RecentProjectMetaInfo>
           </value>
