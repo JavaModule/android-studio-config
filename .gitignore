@@ -1,0 +1,11 @@
+# Android Studio folders config
+fileTemplates/
+keymaps/
+options/
+tasks/
+
+# Android Studio files configu
+disabled_plugins.txt
+disabled_update.txt
+port.lock
+user.token
