@@ -5,7 +5,7 @@ take a look in the list down below to checkout what settings has been changed.
 
 ## Preview
 
-![alt tag](images/android-studio-image.png)
+![alt tag](images/android-studio.png)
 
 ## Settings turned on
 
