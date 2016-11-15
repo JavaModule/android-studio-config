@@ -1,8 +1,30 @@
 # Android Studio folders config
 fileTemplates/
 keymaps/
-options/
 tasks/
+
+# Android Studio options folder
+options/androidStudioFirstRun.xml
+options/editor.codeinsight.xml
+options/jdk.table.xml
+options/options.xml
+options/stubIndex.xml
+options/usage.statistics.xml
+options/debugger.xml
+options/extensionsRootType.xml
+options/keymap.xml
+options/project.default.xml
+options/ui.lnf.xml
+options/dimensions.xml
+options/feature.usage.statistics.xml
+options/laf.xml
+options/statistics.application.usages.xml
+options/updates.xml
+options/recentProjects.xml
+options/window.manager.xml
+options/IntelliLang.xml
+options/diff.xml
+options/git.xml
 
 # Android Studio files configu
 disabled_plugins.txt
