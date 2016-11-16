@@ -15,7 +15,12 @@ download/clone this project them access the project directory and run the
 install-config.sh scrip with the command shown down bellow.
 
 ```bash
+	# Lets supose that you have downloaded the project to your 'Download' folder.
+	cd ~/Download/android-studio-config
 	sh install-config.sh
+
+	# Or just run
+	sh ~/Download/android-studio-config/install-config.sh
 ```
 
 ## Settings turned on
