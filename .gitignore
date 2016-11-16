@@ -8,7 +8,10 @@ options/dimensions.xml
 options/feature.usage.statistics.xml
 options/statistics.application.usages.xml
 options/fileEditorProviderManager.xml
+options/web-browsers.xml
 options/options.xml
+options/gradle.run.settings.xml
+options/runner.layout.xml
 options/updates.xml
 options/recentProjects.xml
 options/git.xml
