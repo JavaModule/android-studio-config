@@ -8,6 +8,7 @@ options/dimensions.xml
 options/feature.usage.statistics.xml
 options/statistics.application.usages.xml
 options/fileEditorProviderManager.xml
+options/options.xml
 options/updates.xml
 options/recentProjects.xml
 options/git.xml
