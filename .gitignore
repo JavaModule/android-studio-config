@@ -10,6 +10,7 @@ options/statistics.application.usages.xml
 options/fileEditorProviderManager.xml
 options/web-browsers.xml
 options/options.xml
+options/window.manager.xml
 options/gradle.run.settings.xml
 options/runner.layout.xml
 options/updates.xml
