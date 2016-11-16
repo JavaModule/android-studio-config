@@ -1,14 +1,21 @@
-# Android Studio folders config
+# Folders
 fileTemplates/
 keymaps/
 tasks/
 
-# Android Studio options folder
+# Options folder
+options/dimensions.xml
+options/feature.usage.statistics.xml
+options/statistics.application.usages.xml
+options/fileEditorProviderManager.xml
 options/updates.xml
 options/recentProjects.xml
 options/git.xml
 
-# Android Studio files configu
+# Plugins
+plugins/availables.xml
+
+# Files
 disabled_plugins.txt
 disabled_update.txt
 port.lock
