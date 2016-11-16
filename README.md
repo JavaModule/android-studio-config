@@ -19,11 +19,11 @@ install-config.sh scrip with the command shown down bellow.
 	cd ~/Download/android-studio-config
 	sh install-config.sh
 
-	# Or just run
+	# Or just run.
 	sh ~/Download/android-studio-config/install-config.sh
 ```
 
-## Settings turned on
+## Settings enabled
 
 ### Appearance & Behavior > Appearance
 * Theme: Darcula
@@ -67,7 +67,7 @@ install-config.sh scrip with the command shown down bellow.
 ### Inspections > Java
 * J2ME Issues.
 
-## Color scheme and theme
+## Color scheme
 * Dracula. [[link]](https://draculatheme.com/jetbrains/)
 
 ## Plugins
