@@ -1,11 +1,22 @@
 # Android Studio - Configs
-This are the configurations that I've been using on my daily work. If you decide to use this Android Studio settings you sould know that some preference settings has been turned on and some other has been turned off.
+This are the configurations that I've been using on my daily work. 
+If you decide to use this Android Studio settings you sould know that some 
+preference settings has been turned on and some other has been turned off.
 I also use a different color theme and over time I also start use some plugins so
 take a look in the list down below to checkout what settings has been changed.
 
 ## Preview
 
 ![alt tag](images/android-studio.png)
+
+## Installation
+To install this configurations in your Android Studio you need to
+download/clone this project them access the project directory and run the
+install-config.sh scrip with the command shown down bellow.
+
+```bash
+	sh install-config.sh
+```
 
 ## Settings turned on
 
@@ -51,8 +62,8 @@ take a look in the list down below to checkout what settings has been changed.
 ### Inspections > Java
 * J2ME Issues.
 
-## Color theme
-* [Dracula](https://draculatheme.com/jetbrains/).
+## Color scheme and theme
+* Dracula. [[link]](https://draculatheme.com/jetbrains/)
 
 ## Plugins
 * Kotlin. [[link]](https://plugins.jetbrains.com/plugin/6954?pr=idea)
