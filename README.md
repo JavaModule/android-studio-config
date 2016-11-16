@@ -1,9 +1,9 @@
 # Android Studio - Configs
 This are the configurations that I've been using on my daily work. 
 If you decide to use this Android Studio settings you sould know that some 
-preference settings has been turned on and some other has been turned off.
-I also use a different color theme and over time I also start use some plugins so
-take a look in the list down below to checkout what settings has been changed.
+preference settings has been turned on. I also use a different color theme and 
+over the time I started to use some plugins so, take a look in the preview 
+image and in the list down below to checkout what settings has been changed.
 
 ## Preview
 
