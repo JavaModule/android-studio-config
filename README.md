@@ -1,6 +1,6 @@
 # Android Studio - Configs
 This are the configurations that I've been using on my daily work. 
-If you decide to use this Android Studio settings you sould know that some 
+If you decide to use this Android Studio settings you should know that some 
 preference settings has been turned on. I also use a different color theme and 
 over the time I started to use some plugins so, take a look in the preview 
 image and in the list down below to checkout what settings has been changed.
@@ -15,12 +15,12 @@ download/clone this project them access the project directory and run the
 install-config.sh scrip with the command shown down bellow.
 
 ```bash
-	# Let's suppose that you have downloaded the project to your 'Download' folder.
+	# Let's suppose that you have downloaded/cloned the project to your 'Download' folder.
 	cd ~/Download/android-studio-config
+	# Then git the execution permission to the install-config.sh.
+	sudo chmod +x install-config.sh
+	# Finally execute.
 	sh install-config.sh
-
-	# Or just execute.
-	sh ~/Download/android-studio-config/install-config.sh
 ```
 
 ## Settings enabled
