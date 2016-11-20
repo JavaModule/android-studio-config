@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/adapters/PullRequestsAdapter.java" timestamp="1479428176671">
+        <mark key="[" line="74" column="68" />
+        <mark key="]" line="74" column="53" />
+        <mark key="^" line="74" column="53" />
+        <mark key="." line="74" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/helpers/NetworkChangeReceiverHelper.java" timestamp="1479435197520">
+        <mark key="[" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tech-night-example-android/app/src/main/java/com/tech/night/example/android/MainActivity.java" timestamp="1479605974353">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/MainActivity.java" timestamp="1479261933802">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="61" column="101" />
@@ -10,24 +22,96 @@
         <mark key="^" line="61" column="35" />
         <mark key="." line="61" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/build.gradle" timestamp="1479590758933">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1479225232348">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/logger-core/build.gradle" timestamp="1479591474136">
+        <mark key="[" line="24" column="52" />
       </file>
     </filemarks>
     <jumps>
       <jump line="59" column="12" filename="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/MainActivity.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/Tech-night-example-android/app/src/main/java/com/tech/night/example/android/MainActivity.java" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vIHVuY29tbWVudCB0byBidWlsZCBhIGphciBmaWxlIGluIGFkZGl0aW9uIHRvIHRoZSBkZWZhdWx0IGFhciBmaWxlCi8vYW5kcm9pZC5saWJyYXJ5VmFyaWFudHMuYWxsIHsgdmFyaWFudCAtPgovLyAgICBkZWYgbmFtZSA9IHZhcmlhbnQuYnVpbGRUeXBlLm5hbWUKLy8gICAgZGVmIHRhc2sgPSBwcm9qZWN0LnRhc2tzLmNyZWF0ZSAiamFyJHtuYW1lLmNhcGl0YWxpemUoKX0iLCBKYXIKLy8gICAgdGFzay5kZXBlbmRzT24gdmFyaWFudC5qYXZhQ29tcGlsZQovLyAgICB0YXNrLmZyb20gdmFyaWFudC5qYXZhQ29tcGlsZS5kZXN0aW5hdGlvbkRpcgovLyAgICBhcnRpZmFjdHMuYWRkKCdhcmNoaXZlcycsIHRhc2spOwovL30=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ci8vIHVuY29tbWVudCB0byBidWlsZCBhIGphciBmaWxlIGluIGFkZGl0aW9uIHRvIHRoZSBkZWZhdWx0IGFhciBmaWxlCi8vYW5kcm9pZC5saWJyYXJ5VmFyaWFudHMuYWxsIHsgdmFyaWFudCAtPgovLyAgICBkZWYgbmFtZSA9IHZhcmlhbnQuYnVpbGRUeXBlLm5hbWUKLy8gICAgZGVmIHRhc2sgPSBwcm9qZWN0LnRhc2tzLmNyZWF0ZSAiamFyJHtuYW1lLmNhcGl0YWxpemUoKX0iLCBKYXIKLy8gICAgdGFzay5kZXBlbmRzT24gdmFyaWFudC5qYXZhQ29tcGlsZQovLyAgICB0YXNrLmZyb20gdmFyaWFudC5qYXZhQ29tcGlsZS5kZXN0aW5hdGlvbkRpcgovLyAgICBhcnRpZmFjdHMuYWRkKCdhcmNoaXZlcycsIHRhc2spOwovL30=</text>
+      </register>
+      <register name=":" type="4">
+        <text>edit colors.xml</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>edit PullRequestAdapter.java</entry>
+        <entry>wq</entry>
+        <entry>edit colors.xml</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
