@@ -1204,6 +1204,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.htl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="co.nums.intellij.aem" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.ids">
       <plugins>
         <option name="myPlugins">

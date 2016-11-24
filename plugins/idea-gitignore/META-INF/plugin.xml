@@ -1,7 +1,7 @@
 <idea-plugin version="2">
   <id>mobi.hsz.idea.gitignore</id>
   <name>.ignore</name>
-  <version>1.5</version>
+  <version>1.6</version>
   <vendor email="jakub@hsz.mobi" url="http://www.hsz.mobi">hsz</vendor>
   <description>
       &lt;h1&gt;.ignore&lt;/h1&gt;
@@ -18,7 +18,7 @@
         &lt;i&gt;.gitignore (GIT), .hgignore (Mercurial), .npmignore (NPM), .dockerignore (Docker), .chefignore (Chef),
            .cvsignore (CVS), .bzrignore (Bazaar), .boringignore (Darcs), .mtn-ignore (Monotone), ignore-glob (Fossil),
            .jshintignore (JSHint), .tfignore (Team Foundation), .p4ignore (Perforce), .flooignore (Floobits),
-           .eslintignore (ESLint), .cfignore (Cloud Foundry)&lt;/i&gt;, .jpmignore (Jetpack)
+           .eslintignore (ESLint), .cfignore (Cloud Foundry)&lt;/i&gt;, .jpmignore (Jetpack), .stylelintignore (StyleLint)
         files in your project.
       &lt;br/&gt;
 
@@ -52,22 +52,27 @@
     </description>
   <change-notes>
 
-        &lt;a href="https://github.com/hsz/idea-gitignore/tree/v1.5"&gt;&lt;b&gt;v1.5&lt;/b&gt;&lt;/a&gt; (2016-06-13) &lt;br/&gt;&lt;br/&gt;
-        &lt;a href="https://github.com/hsz/idea-gitignore/compare/v1.4.1...v1.5"&gt;&lt;small&gt;Full Changelog&lt;/small&gt;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;
+        &lt;a href="https://github.com/hsz/idea-gitignore/tree/v1.6"&gt;&lt;b&gt;v1.6&lt;/b&gt;&lt;/a&gt; (2016-11-23) &lt;br/&gt;&lt;br/&gt;
+        &lt;a href="https://github.com/hsz/idea-gitignore/compare/v1.5...v1.6"&gt;&lt;small&gt;Full Changelog&lt;/small&gt;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;
 
         &lt;i&gt;Implemented enhancements:&lt;/i&gt;
         
         &lt;ul&gt;
-            &lt;li&gt;Create user templates with existing ignore entries&lt;/li&gt;
-            &lt;li&gt;Favorite templates feature (&lt;a href="https://github.com/hsz/idea-gitignore/issues/236"&gt;236&lt;/a&gt;)&lt;/li&gt;
-            &lt;li&gt;Generate without comments and empty lines (&lt;a href="https://github.com/hsz/idea-gitignore/issues/229"&gt;229&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;Unignore Files (&lt;a href="https://github.com/hsz/idea-gitignore/issues/250"&gt;250&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;Default icon for .ignore files (&lt;a href="https://github.com/hsz/idea-gitignore/issues/258"&gt;258&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;StyleLint (.stylelintignore) support (&lt;a href="https://github.com/hsz/idea-gitignore/issues/241"&gt;241&lt;/a&gt;)&lt;/li&gt;
         &lt;/ul&gt;
 
         &lt;i&gt;Fixed bugs:&lt;/i&gt;
 
         &lt;ul&gt;
-            &lt;li&gt;NoSuchMethodError on ContainerUtil.notNullize (&lt;a href="https://github.com/hsz/idea-gitignore/issues/232"&gt;232&lt;/a&gt;)&lt;/li&gt;
-            &lt;li&gt;Refactoring of the external executable process (&lt;a href="https://github.com/hsz/idea-gitignore/issues/233"&gt;233&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;Method OuterIgnoreLoaderComponent.getOuterFiles must not return null (&lt;a href="https://github.com/hsz/idea-gitignore/issues/240"&gt;240&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;Coloring problem at project startup (&lt;a href="https://github.com/hsz/idea-gitignore/issues/246"&gt;246&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;Fixed freeze report in ExternalExec (&lt;a href="https://github.com/hsz/idea-gitignore/issues/256"&gt;256&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;ConcurrentModificationException in IgnoreReferenceSet (&lt;a href="https://github.com/hsz/idea-gitignore/issues/269"&gt;269&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;Stop indexing excluded files/directories (&lt;a href="https://github.com/hsz/idea-gitignore/issues/273"&gt;273&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;NoSuchMethodError: com.intellij.util.containers.ContainerUtil.getFirstItem (&lt;a href="https://github.com/hsz/idea-gitignore/issues/263"&gt;263&lt;/a&gt;)&lt;/li&gt;
+            &lt;li&gt;CacheMap.getParentStatus must not return null (&lt;a href="https://github.com/hsz/idea-gitignore/issues/242"&gt;242&lt;/a&gt;)&lt;/li&gt;
         &lt;/ul&gt;
 
         &lt;a href="https://github.com/hsz/idea-gitignore/blob/master/CHANGELOG.md"&gt;&lt;b&gt;Full Changelog History&lt;/b&gt;&lt;/a&gt;
@@ -115,6 +120,7 @@
     <lang.parserDefinition language="Nodemon" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreParserDefinition"/>
     <lang.parserDefinition language="Npm" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreParserDefinition"/>
     <lang.parserDefinition language="Perforce" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreParserDefinition"/>
+    <lang.parserDefinition language="StyleLint" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreParserDefinition"/>
     <lang.parserDefinition language="Team Foundation" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreParserDefinition"/>
     <psi.referenceContributor language="Ignore" implementation="mobi.hsz.idea.gitignore.reference.IgnoreReferenceContributor"/>
     <lang.syntaxHighlighterFactory key="Ignore" implementationClass="mobi.hsz.idea.gitignore.highlighter.IgnoreHighlighterFactory"/>
@@ -194,6 +200,10 @@
     <lang.braceMatcher language="Team Foundation" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreBraceMatcher"/>
     <lang.commenter language="Team Foundation" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreCommenter"/>
     <lang.syntaxHighlighterFactory key="Team Foundation" implementationClass="mobi.hsz.idea.gitignore.highlighter.IgnoreHighlighterFactory"/>
+    <codeInsight.lineMarkerProvider language="StyleLint" implementationClass="mobi.hsz.idea.gitignore.daemon.IgnoreDirectoryMarkerProvider"/>
+    <lang.braceMatcher language="StyleLint" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreBraceMatcher"/>
+    <lang.commenter language="StyleLint" implementationClass="mobi.hsz.idea.gitignore.lang.IgnoreCommenter"/>
+    <lang.syntaxHighlighterFactory key="StyleLint" implementationClass="mobi.hsz.idea.gitignore.highlighter.IgnoreHighlighterFactory"/>
   </extensions>
   <application-components>
     <component>
@@ -222,6 +232,12 @@
       <add-to-group group-id="NewGroup" anchor="last"/>
     </action>
     <group id="Ignore.IgnoreGroup" class="mobi.hsz.idea.gitignore.actions.IgnoreFileGroupAction">
+      <add-to-group group-id="EditorPopupMenu"/>
+      <add-to-group group-id="ProjectViewPopupMenu"/>
+      <add-to-group group-id="EditorTabPopupMenu"/>
+      <add-to-group group-id="ConsoleEditorPopupMenu"/>
+    </group>
+    <group id="Ignore.UnignoreGroup" class="mobi.hsz.idea.gitignore.actions.UnignoreFileGroupAction">
       <add-to-group group-id="EditorPopupMenu"/>
       <add-to-group group-id="ProjectViewPopupMenu"/>
       <add-to-group group-id="EditorTabPopupMenu"/>

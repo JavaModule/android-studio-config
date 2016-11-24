@@ -3,17 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/adapters/PullRequestsAdapter.java" timestamp="1479428176671">
-        <mark key="[" line="74" column="68" />
-        <mark key="]" line="74" column="53" />
-        <mark key="^" line="74" column="53" />
-        <mark key="." line="74" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/helpers/NetworkChangeReceiverHelper.java" timestamp="1479435197520">
-        <mark key="[" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tech-night-example-android/app/src/main/java/com/tech/night/example/android/MainActivity.java" timestamp="1479605974353">
         <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/build.gradle" timestamp="1479590758933">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/app/build.gradle" timestamp="1479948871803">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/app/build.gradle" timestamp="1479949637113">
+        <mark key="[" line="108" column="57" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/logger-core/build.gradle" timestamp="1479949620082">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="51" />
+        <mark key="^" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/logger-core/build.gradle" timestamp="1479948856242">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/MainActivity.java" timestamp="1479261933802">
         <mark key="'" line="59" column="12" />
@@ -22,16 +42,17 @@
         <mark key="^" line="61" column="35" />
         <mark key="." line="61" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/build.gradle" timestamp="1479590758933">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/views/adapters/PullRequestsAdapter.java" timestamp="1479428176671">
+        <mark key="[" line="74" column="68" />
+        <mark key="]" line="74" column="53" />
+        <mark key="^" line="74" column="53" />
+        <mark key="." line="74" column="53" />
       </file>
       <file name="/fragment.java" timestamp="1479225232348">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/logger/logger-core/build.gradle" timestamp="1479591474136">
-        <mark key="[" line="24" column="52" />
+      <file name="$USER_HOME$/Projects/consuming-gitgub-api-android/app/src/main/java/com/desafioconcrete/helpers/NetworkChangeReceiverHelper.java" timestamp="1479435197520">
+        <mark key="[" line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
