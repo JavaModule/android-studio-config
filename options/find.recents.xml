@@ -1,0 +1,42 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>recy</find>
+      <find>toolbar</find>
+      <find>Preferences.</find>
+      <find>Preferences.get</find>
+      <find>showLastSea</find>
+      <find>ContextCompat.getColo</find>
+      <find>ContextCompat.getDra</find>
+      <find>.setColorFilter</find>
+      <find>mPlaceHolderManager.mViewEmptyTextSize</find>
+      <find>UNIT</find>
+      <find>UNIT_SP</find>
+      <find>pull</find>
+      <find>Throw</find>
+      <find>availabili</find>
+      <find>AvailavilityHotel</find>
+      <find>&quot;</find>
+      <find>'</find>
+      <find>.unsub</find>
+      <find>.unsu</find>
+      <find>getPreferences(context).</find>
+      <find>getPreferences(context).getStringSet(Constants.Key.SEARCH_SUGGESTION, new HashSet&lt;&gt;())</find>
+      <find>getPreferences(context)</find>
+      <find>startAct</find>
+      <find>checkif</find>
+      <find>mUSerInteraction.</find>
+      <find>showSelecte</find>
+      <find>fabric</find>
+      <find>TextUtils</find>
+      <find>TextUtils.isEmpty(</find>
+      <find>TextUti</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.hotelurbano</replace>
+      <replace>mUserInteraction</replace>
+      <replace>'</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+</application>

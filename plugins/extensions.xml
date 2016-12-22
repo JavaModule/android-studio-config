@@ -1635,6 +1635,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ll">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.alef.vypa" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.logika">
       <plugins>
         <option name="myPlugins">
@@ -3139,6 +3152,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.toml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.top">
       <plugins>
         <option name="myPlugins">
@@ -3301,6 +3327,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="org.mule.tooling.intellij.dataweave" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.wiki">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="FitNesse" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -3679,6 +3718,19 @@
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="Cargo.lock">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
