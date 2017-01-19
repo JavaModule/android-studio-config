@@ -38,3 +38,9 @@ com.android.tools.idea.gradle.project
 com.sun.awt
 com.sun.net.ssl.internal.ssl
 org.apache.log4j
+cz.vutbr.web.css
+cz.vutbr.web.csskit
+org.fit.cssbox.layout
+org.fit.cssbox.swingbox
+org.fit.net
+org.w3c.dom

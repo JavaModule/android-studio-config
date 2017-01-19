@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>recy</find>
-      <find>toolbar</find>
-      <find>Preferences.</find>
-      <find>Preferences.get</find>
-      <find>showLastSea</find>
-      <find>ContextCompat.getColo</find>
-      <find>ContextCompat.getDra</find>
-      <find>.setColorFilter</find>
-      <find>mPlaceHolderManager.mViewEmptyTextSize</find>
-      <find>UNIT</find>
-      <find>UNIT_SP</find>
-      <find>pull</find>
-      <find>Throw</find>
-      <find>availabili</find>
-      <find>AvailavilityHotel</find>
-      <find>&quot;</find>
-      <find>'</find>
-      <find>.unsub</find>
-      <find>.unsu</find>
-      <find>getPreferences(context).</find>
-      <find>getPreferences(context).getStringSet(Constants.Key.SEARCH_SUGGESTION, new HashSet&lt;&gt;())</find>
-      <find>getPreferences(context)</find>
-      <find>startAct</find>
-      <find>checkif</find>
-      <find>mUSerInteraction.</find>
-      <find>showSelecte</find>
-      <find>fabric</find>
-      <find>TextUtils</find>
-      <find>TextUtils.isEmpty(</find>
-      <find>TextUti</find>
+      <find>showToolbar</find>
+      <find>showChc</find>
+      <find>checkIfHotel</find>
+      <find>startPlay</find>
+      <find>isGoogle</find>
+      <find>TODO</find>
+      <find>REcyclerView</find>
+      <find>parseDateToString</find>
+      <find>start</find>
+      <find>info</find>
+      <find>save</find>
+      <find>SimpleDateFormat</find>
+      <find>new SimpleDateFormat</find>
+      <find>DESTINATIO</find>
+      <find>DateFormatHelper</find>
+      <find>loadcheckin</find>
+      <find>mTextViewGuests</find>
+      <find>showChecki</find>
+      <find>mHotelHasSchedule</find>
+      <find>format</find>
+      <find>mUserInteraction.formatCheckinAndCheckoutDate</find>
+      <find>&quot;&quot;, null, null, null</find>
+      <find>null, null, null, null</find>
+      <find>selectedHotel</find>
+      <find>selectedHotel =</find>
+      <find>mSelectedHotel =</find>
+      <find>CURRENT_DATE_FORMAT, FUTURE_DATE_FORMAT, DATE_FORMATTED</find>
+      <find>&quot;&quot;, &quot;&quot;, DATE_FORMAT</find>
+      <find>&quot;&quot;, &quot;&quot;, null</find>
+      <find>equals</find>
     </findStrings>
     <replaceStrings>
       <replace>com.hotelurbano</replace>
