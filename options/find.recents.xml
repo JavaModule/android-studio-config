@@ -1,16 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>showToolbar</find>
-      <find>showChc</find>
-      <find>checkIfHotel</find>
-      <find>startPlay</find>
-      <find>isGoogle</find>
-      <find>TODO</find>
-      <find>REcyclerView</find>
-      <find>parseDateToString</find>
-      <find>start</find>
-      <find>info</find>
       <find>save</find>
       <find>SimpleDateFormat</find>
       <find>new SimpleDateFormat</find>
@@ -31,6 +21,16 @@
       <find>&quot;&quot;, &quot;&quot;, DATE_FORMAT</find>
       <find>&quot;&quot;, &quot;&quot;, null</find>
       <find>equals</find>
+      <find>guests</find>
+      <find>loadNumber</find>
+      <find>showNumber</find>
+      <find>text_view_date</find>
+      <find>mTextViewDate</find>
+      <find>mTextViewDate.setTe</find>
+      <find>initTheTextViewDate</find>
+      <find>showCheckinAndCheckoutDate</find>
+      <find>formatCheckin</find>
+      <find>selected</find>
     </findStrings>
     <replaceStrings>
       <replace>com.hotelurbano</replace>

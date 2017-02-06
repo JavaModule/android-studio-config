@@ -2287,6 +2287,11 @@
               <option name="myBundled" value="true" />
             </plugin>
             <plugin>
+              <option name="myPluginId" value="com.intellij.lang.puppet" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+            <plugin>
               <option name="myPluginId" value="com.siberika.idea.pascal" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
