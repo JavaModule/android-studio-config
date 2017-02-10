@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>save</find>
-      <find>SimpleDateFormat</find>
       <find>new SimpleDateFormat</find>
       <find>DESTINATIO</find>
       <find>DateFormatHelper</find>
@@ -31,6 +29,8 @@
       <find>showCheckinAndCheckoutDate</find>
       <find>formatCheckin</find>
       <find>selected</find>
+      <find>tag</find>
+      <find>Logger.d</find>
     </findStrings>
     <replaceStrings>
       <replace>com.hotelurbano</replace>

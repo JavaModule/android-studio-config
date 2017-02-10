@@ -2739,6 +2739,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.secarc">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="de.monticore.lang.montisecarc.MontiSecArcLanguagePlugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.sel">
       <plugins>
         <option name="myPlugins">
