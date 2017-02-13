@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>new SimpleDateFormat</find>
-      <find>DESTINATIO</find>
-      <find>DateFormatHelper</find>
       <find>loadcheckin</find>
       <find>mTextViewGuests</find>
       <find>showChecki</find>
@@ -31,6 +28,9 @@
       <find>selected</find>
       <find>tag</find>
       <find>Logger.d</find>
+      <find>.idea/misc</find>
+      <find>.idea/</find>
+      <find>name</find>
     </findStrings>
     <replaceStrings>
       <replace>com.hotelurbano</replace>
