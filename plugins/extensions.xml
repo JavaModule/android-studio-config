@@ -3715,19 +3715,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="Appfile">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.hcl" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="BUCK">
       <plugins>
         <option name="myPlugins">

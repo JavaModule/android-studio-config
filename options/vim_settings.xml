@@ -18,12 +18,11 @@
         <mark key="." line="242" column="3" />
         <mark key="^" line="242" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/build.gradle" timestamp="1486744792600">
-        <mark key="'" line="91" column="3" />
-        <mark key="[" line="108" column="73" />
-        <mark key="]" line="108" column="72" />
-        <mark key="." line="108" column="72" />
-        <mark key="^" line="108" column="72" />
+      <file name="$USER_HOME$/Projects/orc-android/app/build.gradle" timestamp="1487256194666">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="91" column="22" />
+        <mark key="]" line="91" column="35" />
+        <mark key="." line="91" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/show_hotels_can_be_booked/HotelsDetailActivity.java" timestamp="1482287975261">
         <mark key="'" line="144" column="32" />
@@ -148,6 +147,7 @@
         <mark key="." line="24" column="53" />
         <mark key="^" line="24" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/tech-night-cg-sample-android/app/src/main/java/com/tech_night_cg/note_list/NotesAdapter.java" timestamp="1487019460195" />
       <file name="$USER_HOME$/orc-android/app/signin.properties" timestamp="1486731161380">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="34" />
@@ -403,11 +403,12 @@
         <mark key="." line="210" column="7" />
         <mark key="^" line="210" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/values/strings.xml" timestamp="1486734002610">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-        <mark key="^" line="1" column="30" />
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/values/strings.xml" timestamp="1487031199073">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/values/strings.xml" timestamp="1484585600640">
         <mark key="[" line="20" column="45" />
@@ -610,12 +611,12 @@
         <mark key="." line="67" column="56" />
         <mark key="^" line="67" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/build.gradle" timestamp="1486736085414">
-        <mark key="'" line="14" column="16" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/orc-android/build.gradle" timestamp="1487037556674">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/adapter_hotel_availability_body.xml" timestamp="1482887787023">
         <mark key="'" line="88" column="50" />
@@ -656,12 +657,12 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginActivity.kt" timestamp="1486747663049">
-        <mark key="'" line="13" column="45" />
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="45" />
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginActivity.kt" timestamp="1487256284061">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/PlaceHolderManager.java" timestamp="1482156391738">
         <mark key="'" line="0" column="0" />
@@ -691,11 +692,10 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_main.xml" timestamp="1486747155569">
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_main.xml" timestamp="1487034255776">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="32" column="15" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/values/styles.xml" timestamp="1481911138008">
         <mark key="'" line="6" column="53" />
@@ -730,15 +730,19 @@
         <mark key="." line="105" column="16" />
         <mark key="^" line="105" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" timestamp="1486747138535">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" timestamp="1487034249430">
+        <mark key="'" line="6" column="37" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="24" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486748836826">
+      <file name="/Dummy.txt" timestamp="1487031521521">
+        <mark key="a" line="0" column="3" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/PlaceHolderManager.java" timestamp="1482158457094">
         <mark key="'" line="382" column="3" />
@@ -825,16 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="49" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/SearchHotelActivity.java" />
-      <jump line="88" column="24" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
-      <jump line="178" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/SearchHotelActivity.java" />
-      <jump line="27" column="30" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
-      <jump line="103" column="18" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
-      <jump line="86" column="28" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
-      <jump line="20" column="57" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenter.java" />
-      <jump line="194" column="50" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" />
-      <jump line="183" column="49" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" />
-      <jump line="93" column="51" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailActivity.java" />
       <jump line="95" column="89" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailActivity.java" />
       <jump line="26" column="19" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
       <jump line="22" column="30" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/network/ApiService.java" />
@@ -902,7 +896,6 @@
       <jump line="10" column="22" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/HotelUrbanoApplication.java" />
       <jump line="13" column="0" filename="$USER_HOME$/orc-android/app/src/main/java/orc/com/br/orc_android/MainActivity.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
       <jump line="15" column="16" filename="$USER_HOME$/Projects/orc-android/build.gradle" />
       <jump line="99" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
@@ -924,62 +917,73 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_main.xml" />
-      <jump line="13" column="45" filename="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginActivity.kt" />
+      <jump line="9" column="23" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/values/strings.xml" />
+      <jump line="42" column="43" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
+      <jump line="39" column="3" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
+      <jump line="4" column="61" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
+      <jump line="6" column="37" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" />
+      <jump line="1" column="26" filename="$USER_HOME$/Projects/orc-android/build.gradle" />
+      <jump line="13" column="38" filename="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginActivity.kt" />
+      <jump line="93" column="28" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFJlbGF0aXZlTGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCiAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGl2aXR5X21haW4iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIgogICAgdG9vbHM6Y29udGV4dD0ib3JjLmNvbS5ici5vcmNfYW5kcm9pZC5iYWxhbmNlLk1haW5BY3Rpdml0eSI+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIvPgo8L1JlbGF0aXZlTGF5b3V0Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9sb2dpbi50b29sYmFyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>onValidationSuceedonValidationSucceeded</text>
+        <text>text_input_layout_email</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>constraint</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIFJldHJvZml0IHJ1bGVzLiAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+      <register name="0" type="4">
+        <text>textInputLayoutEmail</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFJlbGF0aXZlTGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCiAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGl2aXR5X21haW4iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIgogICAgdG9vbHM6Y29udGV4dD0ib3JjLmNvbS5ici5vcmNfYW5kcm9pZC5iYWxhbmNlLk1haW5BY3Rpdml0eSI+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIvPgo8L1JlbGF0aXZlTGF5b3V0Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9sb2dpbi50b29sYmFyCg==</text>
       </register>
       <register name="q" type="4">
         <text>viwyjjjjjjjviwp</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PExpbmVhckxheW91dAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgoKPC9MaW5lYXJMYXlvdXQ+</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9sb2dpbi4qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9sb2dpbi50ZXh0X2lucHV0X2xheW91dF9lbWFpbCBhcyBUZXh0SW5wdXRMYXlvdXRFbWFpbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TmV2ZXIgbWluZCBJIGp1c3QgbWFrZSB0aGUgc2V0dXAgd29yawo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhNCcK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpdml0eV9tYWluX2RvbmUiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhcHA6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjBkcCIKICAgIGFwcDpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iODBkcCIKICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVYPSIwZHAiCiAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iODBkcCI+CgogICAgPGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTZkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hdHRyL2NvbG9yUHJpbWFyeSIKICAgICAgICBhbmRyb2lkOnRoZW1lPSI/YXR0ci9hY3Rpb25CYXJUaGVtZSIKICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rvb2xiYXIiCiAgICAgICAgYW5kcm9pZDplbGV2YXRpb249IjhkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIi8+CjwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhNCcK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC90b29sYmFyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIG0K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pbWFnZV92aWV3X2NhbGVuZGFyX2ljb24iCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQCtpZC90ZXh0X2lucHV0X2xheW91dF9kZXN0aW5hdGlvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblRvcD0iQCtpZC9saW5lYXJfbGF5b3V0X2NhbGVuZGFyX2NvbnRhaW5lciIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBtaXBtYXAvaWNfbGF1bmNoZXIiLz4=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>edit build.gradle</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
-      <last-offset>build</last-offset>
-      <last-pattern>build</last-pattern>
+      <last-search>constraint</last-search>
+      <last-offset />
+      <last-pattern>constraint</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -995,9 +999,9 @@
         <entry encoding="base64">Q2FsbDw=</entry>
         <entry>buil</entry>
         <entry>build</entry>
+        <entry>constraint</entry>
       </history-search>
       <history-cmd>
-        <entry>edit HotelsDetailContract.java</entry>
         <entry>edit MainActivity.java</entry>
         <entry>edit MainPresenter.java</entry>
         <entry>edit HotelsDetailPresenterTest.java</entry>
@@ -1010,13 +1014,14 @@
         <entry>Wq</entry>
         <entry>edit orc-android</entry>
         <entry>edit User.kt</entry>
-        <entry>edit build.gradle</entry>
         <entry>W</entry>
         <entry>build.gradle</entry>
+        <entry>edit AndroidManifest.xml</entry>
+        <entry>edit activity_login.xml</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>edit AndroidManifest.xml</entry>
         <entry>w</entry>
+        <entry>edit build.gradle</entry>
       </history-cmd>
       <history-expr />
       <history-input />

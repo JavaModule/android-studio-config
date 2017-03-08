@@ -50,6 +50,10 @@
         <option value="properties.index" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex" />
       </list>
     </option>
   </component>
