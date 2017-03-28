@@ -34,8 +34,7 @@ install-config.sh scrip with the command shown down bellow.
 * Save files automatically if application is idle for 15 sec.
 
 ### Editor > General > Auto import
-* Inser imports on past
-* Change the selector to 'All'
+* Inser imports on past - 'All'
 * Optimize imports on the fly
 * Add unambiguous imports on the fly
 
@@ -54,7 +53,7 @@ install-config.sh scrip with the command shown down bellow.
 * Lambdas
 
 ### Editor > General > Smart Keys
-* User "CamelHumps" words
+* Use "CamelHumps" words
 * Surround selection on typing quote or brace
 * Add quotes for attribute value on typing '='
 
@@ -74,8 +73,7 @@ install-config.sh scrip with the command shown down bellow.
 * Kotlin. [[link]](https://plugins.jetbrains.com/plugin/6954?pr=idea)
 * IdeaVim. [[link]](https://github.com/JetBrains/ideavim)
 * Relative Line Numbers. [[link]](https://plugins.jetbrains.com/plugin/7414?pr=idea)
-* Markdown Navigator. [[link](http://vladsch.com/product/markdown-navigator)
-* Fabric for Android Studio. [[link]](https://fabric.io/downloads/android)
+* Markdown Navigator. [[link]](http://vladsch.com/product/markdown-navigator)
 * .ignore. [[link]](https://github.com/hsz/idea-gitignore)
 * TestFairy Integration. [[link]](https://docs.testfairy.com/Android/Uploading_with_Android_Studio.html)
 * Android Studio Prettify. [[link]](https://github.com/Haehnchen/idea-android-studio-plugin)

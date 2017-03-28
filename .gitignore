@@ -1,21 +1,37 @@
 # Folders
 fileTemplates/
 keymaps/
+inspection/
+
 tasks/
 
 # Options folder
+options/androidStudioFirstRun.xml
+options/code.style.schemes.xml
+options/diff.xml
 options/dimensions.xml
+options/extentsionsRootType.xml
 options/feature.usage.statistics.xml
-options/statistics.application.usages.xml
-options/fileEditorProviderManager.xml
-options/web-browsers.xml
-options/options.xml
-options/window.manager.xml
-options/gradle.run.settings.xml
-options/runner.layout.xml
-options/updates.xml
-options/recentProjects.xml
 options/git.xml
+options/ignore.xml
+options/IntelliLang.xml
+options/jdk.table.xml
+options/keymap.xml
+options/laf.xml
+options/project.default.xml
+options/proxy.settings.pwd
+options/recentProjects.xml
+options/runner.layout.xml
+options/statistics.application.usages.xml
+options/stubIndex.xml
+options/ui.lnf.xml
+options/updates.xml
+options/usage.statistics.xml
+options/window.manager.xml
+options/fileEditorProviderManager.xml
+options/gradle.run.settings.xml
+options/options.xml
+options/web-browsers.xml
 
 # Plugins
 plugins/availables.xml
