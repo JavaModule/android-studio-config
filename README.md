@@ -81,3 +81,6 @@ install-config.sh scrip with the command shown down bellow.
 * RoboPOJOGenerator. [[link]](https://github.com/robohorse/RoboPOJOGenerator)
 * Android Parcelable code generator. [[link]](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 * Android Parcelable code generator(for Kotlin). [[link]](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin)
+* Spek. [[link]](https://plugins.jetbrains.com/plugin/8564-spek)
+* Genymotion. [[link]](https://plugins.jetbrains.com/plugin/7269-genymotion)
+* SVG2VectorDrawable. [[link]](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable)
