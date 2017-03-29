@@ -1,22 +1,9 @@
-<scheme name="Gruvbox" parent_scheme="Default">
+<scheme name="Gruvbox" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Hasklig" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -61,7 +48,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="83786e" />
@@ -85,19 +71,16 @@
         <option name="FOREGROUND" value="b8bb26" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="BASH.FUNCTION_DEF_NAME">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
         <option name="ERROR_STRIPE_COLOR" value="b8bb26" />
@@ -124,7 +107,6 @@
         <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="282828" />
@@ -192,7 +174,6 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value />
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="fb4934" />
@@ -549,49 +530,11 @@
         <option name="BACKGROUND" value="5e5339" />
       </value>
     </option>
-    <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="ELIXIR_BIT">
-      <value />
-    </option>
-    <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_BRACKET" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
-    <option name="ELIXIR_CHAR_LIST" baseAttributes="DEFAULT_STRING" />
-    <option name="ELIXIR_CHAR_TOKEN" baseAttributes="DEFAULT_ENTITY" />
-    <option name="ELIXIR_DOT" baseAttributes="DEFAULT_DOT" />
-    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="ELIXIR_IGNORED_VARIABLE" baseAttributes="ELIXIR_VARIABLE" />
     <option name="ELIXIR_MACRO_CALL">
       <value>
         <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
-    <option name="ELIXIR_MAP" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_PARENTHESES" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="ELIXIR_PREDEFINED" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="ELIXIR_SIGIL" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="ELIXIR_SPECIFICATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELIXIR_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="ELIXIR_STRUCT" baseAttributes="ELIXIR_MAP" />
-    <option name="ELIXIR_TYPE" baseAttributes="DEFAULT_METADATA" />
-    <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="ELIXIR_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="ELM_ARROW" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELM_BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="ELM_COMMA" baseAttributes="DEFAULT_COMMA" />
-    <option name="ELM_DEFINITION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELM_EQ" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_OPERATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_PARENTHESIS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="ELM_PIPE" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_TYPE" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="ELM_TYPE_ANNOTATION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELM_TYPE_ANNOTATION_SIGNATURE_TYPES" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
@@ -629,9 +572,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HANDLEBARS.DATA_PREFIX">
       <value>
@@ -696,7 +636,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="f9f5d7" />
@@ -714,12 +653,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="83786e" />
@@ -771,8 +704,6 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.WIKI_LINK_REF" baseAttributes="MULTIMARKDOWN.WIKI_LINK" />
-    <option name="MULTIMARKDOWN.WIKI_LINK_SEPARATOR" baseAttributes="MULTIMARKDOWN.WIKI_LINK" />
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="928374" />
@@ -819,16 +750,11 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_BODY" baseAttributes="TEXT" />
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="fe8019" />
@@ -850,9 +776,6 @@
         <option name="FOREGROUND" value="689d6a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="PY.KEYWORD_ARGUMENT">
-      <value />
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
@@ -899,21 +822,11 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="REST.BOLD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.INTERPRETED" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.ITALIC" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RUBY_CONSTANT">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
@@ -929,7 +842,6 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HASH_ASSOC">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
@@ -946,16 +858,11 @@
         <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
-    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="RUBY_PARAMDEF_CALL">
       <value>
         <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
-    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
@@ -1028,10 +935,6 @@
         <option name="ERROR_STRIPE_COLOR" value="76678" />
       </value>
     </option>
-    <option name="SLIM_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="SLIM_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="SLIM_ID" baseAttributes="CSS.HASH" />
-    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="SPY-JS.EXCEPTION">
       <value>
         <option name="BACKGROUND" value="4f1b14" />
