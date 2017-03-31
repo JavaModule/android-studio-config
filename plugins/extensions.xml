@@ -931,19 +931,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.forrest">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="org.siani.forrest" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.frag">
       <plugins>
         <option name="myPlugins">
@@ -2851,6 +2838,11 @@
               <option name="myPluginId" value="org.jetbrains.plugins.slim" />
               <option name="myPluginName" value="Slim" />
               <option name="myBundled" value="true" />
+            </plugin>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.slim" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
