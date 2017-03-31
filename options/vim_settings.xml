@@ -11,47 +11,24 @@
         <mark key="^" line="70" column="17" />
         <mark key="." line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/PlaceHolderJ.java" timestamp="1482158452664">
-        <mark key="'" line="242" column="4" />
-        <mark key="[" line="242" column="4" />
-        <mark key="]" line="245" column="3" />
-        <mark key="." line="242" column="3" />
-        <mark key="^" line="242" column="3" />
+      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/java/com/example/jackmiras/placeholderj/models/Coupon.java" timestamp="1490967220960">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/build.gradle" timestamp="1490557191961">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="91" column="36" />
-        <mark key="]" line="91" column="34" />
-        <mark key="." line="91" column="34" />
-        <mark key="^" line="91" column="34" />
+      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/jackmiras/logger/LoggerApplication.java" timestamp="1490902574393">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/constraint-layout/spike/spike-core/.gitignore" timestamp="1489332704057">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="652" column="0" />
-        <mark key="]" line="652" column="0" />
-        <mark key="." line="652" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/show_hotels_can_be_booked/HotelsDetailActivity.java" timestamp="1482287975261">
-        <mark key="'" line="144" column="32" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/dompet/build.gradle" timestamp="1490658170900">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/.gitignore" timestamp="1481200261977">
-        <mark key="'" line="149" column="0" />
+      <file name="/a.dummy" timestamp="1490903474138">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="149" column="8" />
-        <mark key="." line="149" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1489699072170">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/res/values/colors.xml" timestamp="1490803279026">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/res/values/strings.xml" timestamp="1484858256310">
         <mark key="[" line="33" column="54" />
@@ -71,388 +48,22 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/item_elevation.xml" timestamp="1481851042086">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/data/AvailabilityHotel.java" timestamp="1481805664952">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/placeholderj/app/build.gradle" timestamp="1486399279583">
-        <mark key="'" line="43" column="58" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="17" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenter.java" timestamp="1484588894533">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="38" />
-        <mark key="^" line="107" column="54" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelAvailabilityAdapter.java" timestamp="1484679096896">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="55" column="99" />
-        <mark key="]" line="56" column="60" />
-        <mark key="." line="56" column="60" />
-        <mark key="^" line="56" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/JacksonDateSerializer.java" timestamp="1482937387185">
-        <mark key="[" line="48" column="62" />
-        <mark key="]" line="48" column="71" />
-        <mark key="^" line="48" column="71" />
-        <mark key="." line="48" column="71" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/.gitignore" timestamp="1486735254839">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="6" />
-        <mark key="." line="44" column="6" />
-        <mark key="^" line="44" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/HotelSuggestionProvider.java" timestamp="1481822314612">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="13" column="75" />
-        <mark key="^" line="13" column="75" />
-        <mark key="." line="13" column="75" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_that_can_be_booked/MainActivity.java" timestamp="1481813488056">
-        <mark key="'" line="34" column="22" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="^" line="175" column="56" />
-        <mark key="." line="165" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/SearchHotelAdapter.java" timestamp="1482945974799">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="84" column="18" />
-        <mark key="." line="83" column="69" />
-        <mark key="^" line="83" column="69" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/values-v21/styles.xml" timestamp="1486734242092">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/activity_main.xml" timestamp="1482246377035">
-        <mark key="'" line="25" column="38" />
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/activity_search_hotel.xml" timestamp="1482926476202">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/spike-android/app/build.gradle" timestamp="1489335469721">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/JsonHelper.java" timestamp="1484681160981">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/tech-night-cg-sample-android/app/src/main/java/com/tech_night_cg/note_list/NotesAdapter.java" timestamp="1489442181774" />
-      <file name="$USER_HOME$/orc-android/app/signin.properties" timestamp="1486731161380">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/TestHelperTests.java" timestamp="1484683576613">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="40" column="18" />
-        <mark key="^" line="40" column="18" />
-        <mark key="." line="40" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/helpers/SaripaarAdapter.java" timestamp="1490661151189">
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="45" column="45" />
-        <mark key="^" line="45" column="45" />
-        <mark key="." line="45" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/build.gradle" timestamp="1484788976233">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="67" />
-        <mark key="]" line="34" column="66" />
-        <mark key="^" line="34" column="66" />
-        <mark key="." line="34" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/data/OrcDatabase.kt" timestamp="1486738455042">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/ConcreteApplication.java" timestamp="1480637397830">
-        <mark key="'" line="39" column="36" />
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="48" />
-        <mark key="." line="69" column="48" />
-        <mark key="^" line="69" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_taht_can_be_booked/MainActivity.java" timestamp="1481565498284">
-        <mark key="'" line="143" column="37" />
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/java/orc/com/br/orc_android/login/LoginContract.java" timestamp="1486733394971">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/SearchHotelActivity.java" timestamp="1481557736774">
-        <mark key="'" line="48" column="42" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="64" column="44" />
-        <mark key="." line="64" column="44" />
-        <mark key="^" line="64" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/constraint-layout/spike/.gitignore" timestamp="1489332699861">
-        <mark key="'" line="652" column="0" />
-        <mark key="[" line="652" column="0" />
-        <mark key="]" line="652" column="0" />
-        <mark key="." line="652" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_that_can_be_booked/MainContract.java" timestamp="1481811311361">
-        <mark key="'" line="45" column="14" />
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="42" />
-        <mark key="^" line="47" column="42" />
-        <mark key="." line="47" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/show_hotels_can_be_booked/HotelsDetailPresenter.java" timestamp="1482258282314">
-        <mark key="'" line="55" column="24" />
-        <mark key="[" line="89" column="43" />
-        <mark key="]" line="89" column="90" />
-        <mark key="^" line="89" column="90" />
-        <mark key="." line="89" column="90" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/SearchHotelbleActivity.java" timestamp="1481313588111">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/data/RepositoriesApiServiceImpl.java" timestamp="1480508469313">
-        <mark key="'" line="44" column="19" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="41" column="19" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/list_item_hotel.xml" timestamp="1481891567512">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/show_hotels_can_be_booked/HotelsCanBeBookedContract.java" timestamp="1482245008439">
-        <mark key="'" line="20" column="55" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/MainPresenterTest.java" timestamp="1482501776544">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="272" column="71" />
-        <mark key="." line="272" column="72" />
-      </file>
-      <file name="$USER_HOME$/Projects/spike-android/spike-core/build.gradle" timestamp="1489335474185">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/.gitignore" timestamp="1486735236107">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="6" />
-        <mark key="." line="44" column="6" />
-        <mark key="^" line="44" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/SearchHotelPresenter.java" timestamp="1481557775968">
-        <mark key="'" line="24" column="106" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="43" />
-        <mark key="^" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_and_cities/SearchHotelActivity.java" timestamp="1481566743922">
-        <mark key="'" line="12" column="63" />
-        <mark key="[" line="55" column="41" />
-        <mark key="]" line="84" column="10" />
-        <mark key="." line="84" column="10" />
-        <mark key="^" line="84" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/TextUtils.java" timestamp="1484591580051">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailContract.java" timestamp="1484580887723">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="56" column="92" />
-        <mark key="^" line="56" column="41" />
-        <mark key="." line="56" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/example/jackson/logger/LoggerApplication.java" timestamp="1486400938410">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/dompet/app/src/main/AndroidManifest.xml" timestamp="1490658807494">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/values-v21/styles.xml" timestamp="1481934159528">
-        <mark key="'" line="11" column="27" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_that_can_be_booked/MainPresenter.java" timestamp="1481811338429">
-        <mark key="'" line="92" column="8" />
-        <mark key="[" line="81" column="90" />
-        <mark key="]" line="81" column="97" />
-        <mark key="^" line="81" column="97" />
-        <mark key="." line="81" column="97" />
-      </file>
-      <file name="$USER_HOME$/Projects/orcamento-android/app/build.gradle" timestamp="1481225799264">
-        <mark key="'" line="122" column="55" />
-        <mark key="[" line="112" column="61" />
-        <mark key="]" line="65" column="69" />
-        <mark key="^" line="65" column="69" />
-        <mark key="." line="65" column="69" />
-      </file>
-      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/res/values-en-rUS/strings.xml" timestamp="1486399961314">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="7" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/HotelUrbanoApplication.java" timestamp="1482954973075">
-        <mark key="'" line="15" column="83" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/User.kt" timestamp="1486734983645">
-        <mark key="[" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/SearchableActivity.java" timestamp="1481313543551">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/constraint-layout/constraint-layout-start/app/build.gradle" timestamp="1486745240395">
-        <mark key="[" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/spike-android/build.gradle" timestamp="1489335277562">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/logger/app/build.gradle" timestamp="1489247358816">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/data/Hotel.java" timestamp="1484681724308">
-        <mark key="'" line="55" column="43" />
-        <mark key="[" line="34" column="19" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/MainPresenter.java" timestamp="1481558385405">
-        <mark key="'" line="41" column="8" />
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/activity_hotels_detail.xml" timestamp="1482970769963">
-        <mark key="'" line="50" column="48" />
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="42" />
-        <mark key="." line="63" column="42" />
-        <mark key="^" line="63" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/java/orc/com/br/orc_android/LoginActivity.java" timestamp="1486733347510">
-        <mark key="[" line="0" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/DateParsetHelper.java" timestamp="1484592617549">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/github_repositories/MainActivity.java" timestamp="1481640801789">
-        <mark key="'" line="45" column="26" />
-        <mark key="[" line="47" column="79" />
-        <mark key="]" line="47" column="77" />
-        <mark key="." line="47" column="77" />
-        <mark key="^" line="47" column="77" />
+      <file name="$USER_HOME$/Projects/logger/.gitignore" timestamp="1490903563603">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/show_hotels_can_be_booked/HotelsCanBeBookedActivity.java" timestamp="1482255985124">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="43" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailActivity.java" timestamp="1484567465781">
-        <mark key="'" line="105" column="8" />
-        <mark key="[" line="93" column="8" />
-        <mark key="]" line="93" column="52" />
-        <mark key="." line="210" column="7" />
-        <mark key="^" line="210" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/values/strings.xml" timestamp="1487031199073">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/jackson/logger/Person.java" timestamp="1490882550414">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/values/strings.xml" timestamp="1484585600640">
         <mark key="[" line="20" column="45" />
@@ -460,11 +71,11 @@
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/LoginActivity.java" timestamp="1490661240963">
-        <mark key="'" line="43" column="61" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/placeholderj/app/build.gradle" timestamp="1490963639494">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="1" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailActivity.java" timestamp="1484858380112">
         <mark key="[" line="91" column="21" />
@@ -472,12 +83,16 @@
         <mark key="." line="91" column="20" />
         <mark key="^" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/MainContract.java" timestamp="1481557902116">
-        <mark key="'" line="12" column="73" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="39" />
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/placeholderj/PlaceHolderManager.java" timestamp="1490967086262">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/orcamento-android/build.gradle" timestamp="1490880987615">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/DateSerializer.java" timestamp="1482937031010">
         <mark key="[" line="21" column="18" />
@@ -485,11 +100,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/logger/logger-core/build.gradle" timestamp="1489283728324">
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="28" column="51" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/Projects/logger/logger-core/build.gradle" timestamp="1490905622803">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/values/styles.xml" timestamp="1486734196413">
         <mark key="[" line="12" column="39" />
@@ -503,26 +119,32 @@
         <mark key="^" line="50" column="74" />
         <mark key="." line="50" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/CustomizeViews.java" timestamp="1482158428816">
-        <mark key="'" line="138" column="4" />
-        <mark key="[" line="138" column="4" />
-        <mark key="]" line="141" column="4" />
-        <mark key="." line="138" column="4" />
-        <mark key="^" line="63" column="98" />
+      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/JacksonDateSerializer.java" timestamp="1482937387185">
+        <mark key="[" line="48" column="62" />
+        <mark key="]" line="48" column="71" />
+        <mark key="^" line="48" column="71" />
+        <mark key="." line="48" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/adapter_search_item_hotel.xml" timestamp="1482172338023">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="47" />
+      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/java/com/example/jackmiras/placeholderj/SampleApplication.java" timestamp="1490967206314">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orcamento-android/app/src/main/java/br/com/castrodev/orcamento/ui/ExpenseActivity.java" timestamp="1481227201271">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="292" column="8" />
-        <mark key="]" line="295" column="95" />
-        <mark key="^" line="291" column="16" />
-        <mark key="." line="291" column="16" />
+      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/java/com/example/jackmiras/placeholderj/activities/CouponsActivity.java" timestamp="1490967248727">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/placeholderj/build.gradle" timestamp="1490963742204">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/values-v21/styles.xml" timestamp="1486734242092">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/main/AndroidManifest.xml" timestamp="1486747678143">
         <mark key="[" line="11" column="41" />
@@ -530,33 +152,33 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/menu/open_map.xml" timestamp="1482192629271">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
+      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/activity_search_hotel.xml" timestamp="1482926476202">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenter.java" timestamp="1484876083044">
-        <mark key="'" line="46" column="79" />
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="46" column="79" />
-        <mark key="." line="46" column="79" />
-        <mark key="^" line="46" column="79" />
+      <file name="$USER_HOME$/Projects/spike-android/app/build.gradle" timestamp="1489335469721">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/github_repositories/RepositoriesModule.java" timestamp="1480625153947">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="24" column="5" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/orcamento-android/gradle/wrapper/gradle-wrapper.properties" timestamp="1490818862056">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/Preferences.java" timestamp="1482924967567">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="70" column="4" />
-        <mark key="^" line="64" column="75" />
-        <mark key="." line="64" column="75" />
+      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/JsonHelper.java" timestamp="1484681160981">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="53" />
+        <mark key="." line="24" column="53" />
+        <mark key="^" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/jackson/logger/MainAcivity.java" timestamp="1490882544189">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/main/java/orc/com/br/orc_android/MainActivity.java" timestamp="1486731931079">
         <mark key="[" line="5" column="53" />
@@ -564,29 +186,33 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/SearchHotelPresenter.java" timestamp="1482926375529">
-        <mark key="'" line="51" column="47" />
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="68" column="18" />
-        <mark key="." line="46" column="43" />
-        <mark key="^" line="46" column="43" />
+      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/AndroidManifest.xml" timestamp="1490897832367">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/network/ApiService.java" timestamp="1484674167063">
-        <mark key="'" line="22" column="30" />
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="24" column="49" />
-        <mark key="." line="24" column="49" />
-        <mark key="^" line="24" column="49" />
+      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/res/layout/activity_menu.xml" timestamp="1490968902320">
+        <mark key="[" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainContract.java" timestamp="1484788297718">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="8" />
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioRegistroController.java" timestamp="1490834304142">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/java/orc/com/br/orc_android/login/LoginActivity.java" timestamp="1486733477837">
-        <mark key="[" line="8" column="54" />
+      <file name="$USER_HOME$/Projects/tech-night-cg-sample-android/app/src/main/java/com/tech_night_cg/note_list/NotesAdapter.java" timestamp="1490968720414" />
+      <file name="$USER_HOME$/orc-android/app/signin.properties" timestamp="1486731161380">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/logger/Logger.java" timestamp="1490884350444">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="29" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/proguard-rules.pro" timestamp="1486736970851">
         <mark key="[" line="30" column="37" />
@@ -594,11 +220,21 @@
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/logger/build.gradle" timestamp="1489283956179">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/logger/build.gradle" timestamp="1490901516200">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="72" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioLoginController.java" timestamp="1490834326195">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="30" column="12" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/build.gradle" timestamp="1490963723602">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/main/java/orc/com/br/orc_android/login/LoginAtivity.kt" timestamp="1486733609084">
         <mark key="[" line="13" column="42" />
@@ -624,39 +260,39 @@
         <mark key="^" line="37" column="63" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginAtivity.kt" timestamp="1486734262515">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="14" column="31" />
-        <mark key="." line="14" column="31" />
+      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/jackmiras/logger/MainAcivity.java" timestamp="1490902540479">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/kotlin-dagger-example/build.gradle" timestamp="1489700317826">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/TestHelperTests.java" timestamp="1484683576613">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+        <mark key="." line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" timestamp="1484876227051">
-        <mark key="'" line="117" column="5" />
-        <mark key="[" line="110" column="87" />
-        <mark key="]" line="110" column="81" />
-        <mark key="." line="110" column="81" />
-        <mark key="^" line="110" column="81" />
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/helpers/SaripaarAdapter.java" timestamp="1490824461808">
+        <mark key="[" line="18" column="87" />
+        <mark key="]" line="18" column="87" />
+        <mark key="." line="18" column="87" />
+        <mark key="^" line="18" column="87" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/SearchHotelContract.java" timestamp="1482499949942">
-        <mark key="'" line="18" column="49" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="49" />
-        <mark key="^" line="18" column="49" />
-        <mark key="." line="18" column="49" />
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/data/OrcDatabase.kt" timestamp="1486738455042">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/NumberUtils.java" timestamp="1484591465959">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/placeholderj/CustomizeViews.java" timestamp="1490967053581">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/orc-android/app/src/main/java/orc/com/br/orc_android/login/LoginContract.java" timestamp="1486733394971">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/test/java/orc/com/br/orc_android/login/LoginPresenterTest.kt" timestamp="1486739588883">
         <mark key="[" line="27" column="53" />
@@ -664,47 +300,18 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/menu/search_menu.xml" timestamp="1482192663718">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+      <file name="$USER_HOME$/Projects/dompet/app/build.gradle" timestamp="1490908749154">
+        <mark key="'" line="47" column="40" />
+        <mark key="[" line="48" column="41" />
+        <mark key="]" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/views/MainActivity.java" timestamp="1480524887877">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="46" />
-        <mark key="]" line="67" column="56" />
-        <mark key="." line="67" column="56" />
-        <mark key="^" line="67" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/build.gradle" timestamp="1490471915620">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="8" column="54" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/layout/adapter_hotel_availability_body.xml" timestamp="1482887787023">
-        <mark key="'" line="88" column="50" />
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/java/com/example/jackmiras/placeholderj/activities/MenuActivity.java" timestamp="1482323836151">
-        <mark key="'" line="25" column="46" />
-        <mark key="[" line="50" column="81" />
-        <mark key="]" line="51" column="23" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="51" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/dompet/app/build.gradle" timestamp="1490658329579">
-        <mark key="'" line="0" column="3" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/placeholderj/PlaceHolderJ.java" timestamp="1490967142658">
+        <mark key="[" line="110" column="35" />
+        <mark key="]" line="110" column="34" />
+        <mark key="." line="110" column="34" />
+        <mark key="^" line="110" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/placeholderj/app/src/main/AndroidManifest.xml" timestamp="1486400118109">
         <mark key="[" line="15" column="12" />
@@ -718,12 +325,10 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="41" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/build.gradle" timestamp="1480615621192">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="75" column="6" />
-        <mark key="." line="75" column="6" />
-        <mark key="^" line="75" column="6" />
+      <file name="$USER_HOME$/Projects/orcamento-android/settings.gradle" timestamp="1490817786593">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/data/User.kt" timestamp="1486738984020">
         <mark key="[" line="13" column="0" />
@@ -737,52 +342,20 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginActivity.kt" timestamp="1487256284061">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/PlaceHolderManager.java" timestamp="1482156391738">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="^" line="58" column="58" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels/SearchHotelActivity.java" timestamp="1482926655203">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="190" column="5" />
-        <mark key="^" line="49" column="52" />
-        <mark key="." line="140" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/DateParsetHelperTest.java" timestamp="1484596208301">
-        <mark key="'" line="68" column="50" />
-        <mark key="[" line="135" column="35" />
-        <mark key="]" line="126" column="4" />
-        <mark key="^" line="126" column="4" />
-        <mark key="." line="126" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/OrcApplication.kt" timestamp="1486737224067">
-        <mark key="'" line="13" column="57" />
-        <mark key="[" line="13" column="57" />
-        <mark key="]" line="13" column="73" />
-        <mark key="^" line="13" column="73" />
-        <mark key="." line="13" column="73" />
-      </file>
       <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_main.xml" timestamp="1487034255776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/values/styles.xml" timestamp="1481911138008">
-        <mark key="'" line="6" column="53" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="71" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="26" column="20" />
+      <file name="$USER_HOME$/Projects/logger/logger-core/.gitignore" timestamp="1490903574535">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/gradle.properties" timestamp="1490887478623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainContract.java" timestamp="1484876119010">
         <mark key="[" line="21" column="75" />
@@ -790,88 +363,71 @@
         <mark key="." line="21" column="86" />
         <mark key="^" line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/SearchHotelPresenterTest.java" timestamp="1482756174890">
-        <mark key="'" line="42" column="23" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="26" column="9" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/TextUtils.java" timestamp="1484591580051">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/logger/app/proguard-rules.pro" timestamp="1486384072208">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailContract.java" timestamp="1484580887723">
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="92" />
+        <mark key="^" line="56" column="41" />
+        <mark key="." line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/JsonHelperTest.java" timestamp="1484682549573">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="105" column="15" />
-        <mark key="]" line="105" column="16" />
-        <mark key="." line="105" column="16" />
-        <mark key="^" line="105" column="16" />
+      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/example/jackson/logger/LoggerApplication.java" timestamp="1490900491094">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/orc-android/app/src/main/res/layout/activity_login.xml" timestamp="1490557183248">
-        <mark key="'" line="26" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="24" column="40" />
-        <mark key="." line="24" column="40" />
+      <file name="$USER_HOME$/Projects/logger/app/src/main/java/com/jackson/logger/LoggerApplication.java" timestamp="1490882539764">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/PlaceHolderManager.java" timestamp="1482158457094">
-        <mark key="'" line="382" column="3" />
-        <mark key="[" line="382" column="4" />
-        <mark key="]" line="385" column="4" />
-        <mark key="." line="382" column="4" />
-        <mark key="^" line="64" column="29" />
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/DompetApplication.java" timestamp="1490909048609">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/br/com/hotelurbano/MainActivity.java" timestamp="1481212093743">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+      <file name="$USER_HOME$/Projects/orcamento-android/app/build.gradle" timestamp="1490881522808">
+        <mark key="'" line="16" column="5" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="100" column="3" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/res/menu/options_menu.xml" timestamp="1481553353809">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/res/values-en-rUS/strings.xml" timestamp="1486399961314">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/DompetApplication.java" timestamp="1490658856561">
-        <mark key="'" line="14" column="24" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioRegistroActivity.java" timestamp="1490834269567">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/placeholderj/app/src/main/res/values/strings.xml" timestamp="1486399956188">
-        <mark key="'" line="8" column="37" />
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="$USER_HOME$/Projects/orcamento-android/logger-core/build.gradle" timestamp="1490816164199">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" timestamp="1484662183522">
-        <mark key="'" line="37" column="32" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="42" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="3" />
+      <file name="$USER_HOME$/Projects/logger/app/.gitignore" timestamp="1490903581097">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/views/adapters/RepositoriesAdapter.java" timestamp="1480514501496">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="145" column="4" />
-        <mark key="]" line="146" column="3" />
-        <mark key="." line="146" column="3" />
-        <mark key="^" line="146" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/MainActivity.java" timestamp="1481557871293">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/logger/Settings.java" timestamp="1490902241999">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/DateFormatHelper.java" timestamp="1484592337898">
         <mark key="[" line="14" column="31" />
@@ -879,96 +435,57 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/constraint-layout/spike/app/.gitignore" timestamp="1489332711925">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="652" column="0" />
-        <mark key="]" line="652" column="0" />
-        <mark key="." line="652" column="0" />
+      <file name="$USER_HOME$/Projects/spike-android/build.gradle" timestamp="1489335277562">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/build.gradle" timestamp="1480602264484">
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioController.java" timestamp="1490833823073">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="37" column="16" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger/app/build.gradle" timestamp="1490905228928">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="10" column="73" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/desafio-android/app/src/main/java/com/desafioconcrete/presenters/MainPresenter.java" timestamp="1480512571026">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="22" column="27" />
+      <file name="$USER_HOME$/Projects/logger/app/src/main/AndroidManifest.xml" timestamp="1490886409948">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Settings.java" timestamp="1489196726866">
-        <mark key="[" line="35" column="105" />
+      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Settings.java" timestamp="1490900184619">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/placeholderj-core/src/main/java/com/example/jackmiras/placeholderj/library/CustomizeViews.java" timestamp="1482156386146">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="119" column="99" />
-        <mark key="." line="119" column="99" />
+      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" timestamp="1490900445613">
+        <mark key="'" line="225" column="0" />
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" timestamp="1489197621662">
-        <mark key="[" line="202" column="78" />
+      <file name="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioLoginActivity.java" timestamp="1490909069517">
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/UnitConversorHelper.java" timestamp="1481897028722">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="14" column="86" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-      </file>
-      <file name="/fragment.java" timestamp="1490660678216">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/placeholderj/placeholderj-core/src/main/AndroidManifest.xml" timestamp="1490967030869">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="4" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
-      <jump line="178" column="4" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="135" column="68" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="105" column="8" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailActivity.java" />
-      <jump line="129" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="263" column="48" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="556" column="8" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="76" column="17" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/hotels_detail/HotelsDetailPresenter.java" />
-      <jump line="38" column="12" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenter.java" />
-      <jump line="194" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenterTest.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenter.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenterTest.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/helpers/NumberUtils.java" />
-      <jump line="37" column="32" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/hotels_detail/HotelsDetailPresenterTest.java" />
-      <jump line="68" column="50" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/DateParsetHelperTest.java" />
-      <jump line="24" column="28" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/JsonHelperTest.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/test/java/com/hotelurbano/helpers/JsonHelperTest.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/data/HotelAvailability.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainContract.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/hu-android/app/build.gradle" />
-      <jump line="197" column="79" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" />
-      <jump line="110" column="5" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainActivity.java" />
-      <jump line="46" column="79" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/search_hotels_can_be_booked/MainPresenter.java" />
-      <jump line="28" column="95" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Settings.java" />
-      <jump line="16" column="29" filename="$USER_HOME$/Projects/logger/app/build.gradle" />
-      <jump line="4" column="24" filename="$USER_HOME$/Projects/logger/app/build.gradle" />
-      <jump line="7" column="9" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
-      <jump line="18" column="31" filename="$USER_HOME$/Projects/placeholderj/placeholderj-core/build.gradle" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/placeholderj/app/proguard-rules.pro" />
-      <jump line="8" column="37" filename="$USER_HOME$/Projects/placeholderj/app/src/main/res/values/strings.xml" />
-      <jump line="10" column="22" filename="$USER_HOME$/Projects/desafiohu1/hu-android/app/src/main/java/com/hotelurbano/HotelUrbanoApplication.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/orc-android/app/src/main/java/orc/com/br/orc_android/MainActivity.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
-      <jump line="15" column="16" filename="$USER_HOME$/Projects/orc-android/build.gradle" />
-      <jump line="99" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orc-android/app/.gitignore" />
-      <jump line="149" column="0" filename="$USER_HOME$/Projects/orc-android/app/.gitignore" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/orc-android/app/.gitignore" />
-      <jump line="147" column="0" filename="$USER_HOME$/Projects/orc-android/app/.gitignore" />
-      <jump line="148" column="0" filename="$USER_HOME$/Projects/orc-android/app/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orc-android/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orc-android/app/src/main/res/values/colors.xml" />
       <jump line="14" column="33" filename="$USER_HOME$/Projects/orc-android/app/src/main/kotlin/orc/com/br/orc_android/login/LoginAtivity.kt" />
       <jump line="82" column="26" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
       <jump line="102" column="0" filename="$USER_HOME$/Projects/orc-android/app/build.gradle" />
@@ -1024,62 +541,106 @@
       <jump line="43" column="61" filename="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/LoginActivity.java" />
       <jump line="29" column="64" filename="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/helpers/SaripaarAdapter.java" />
       <jump line="53" column="24" filename="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/helpers/SaripaarAdapter.java" />
+      <jump line="97" column="33" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="128" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="90" column="62" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="57" column="8" filename="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioLoginActivity.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/dompet/app/build.gradle" />
+      <jump line="49" column="29" filename="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/UsuarioLoginActivity.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/dompet/app/build.gradle" />
+      <jump line="13" column="28" filename="$USER_HOME$/Projects/dompet/app/src/main/java/com/br/dompet/usuario/Usuario.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/dompet/app/build.gradle" />
+      <jump line="10" column="39" filename="$USER_HOME$/Projects/dompet/app/src/main/AndroidManifest.xml" />
+      <jump line="84" column="48" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="18" column="5" filename="$USER_HOME$/Projects/orcamento-android/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="137" column="27" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="0" column="38" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="140" column="0" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/orcamento-android/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/orcamento-android/build.gradle" />
+      <jump line="16" column="5" filename="$USER_HOME$/Projects/orcamento-android/app/build.gradle" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/logger/gradle.properties" />
+      <jump line="132" column="0" filename="$USER_HOME$/Projects/logger/.gitignore" />
+      <jump line="14" column="17" filename="$USER_HOME$/Projects/logger/app/.gitignore" />
+      <jump line="129" column="0" filename="$USER_HOME$/Projects/logger/app/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/logger/app/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/logger/.gitignore" />
+      <jump line="216" column="4" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="224" column="4" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="6" column="43" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="213" column="41" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="226" column="0" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Projects/logger/logger-core/src/main/java/com/example/logger/Logger.java" />
+      <jump line="12" column="28" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
+      <jump line="15" column="15" filename="$USER_HOME$/Projects/logger/app/build.gradle" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/logger/logger-core/build.gradle" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/logger/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/logger/app/build.gradle" />
+      <jump line="47" column="40" filename="$USER_HOME$/Projects/dompet/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmphY2ttaXJhcy5wbGFjZWhvbGRlcmoubGlicmFyeS5QbGFjZUhvbGRlcko7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>textWatcher</text>
+        <text>.example.jackmiras.</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>kotlin</text>
       </register>
       <register name="0" type="4">
-        <text>if (editText != null) 
-                editText.addTextChangedListener(addTextWatcher(textInputLayout));</text>
+        <text>{ ; }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmphY2ttaXJhcy5wbGFjZWhvbGRlcmoubGlicmFyeS5QbGFjZUhvbGRlcko7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>viwyjjjjjjjviwp</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IAogICAgQEJpbmRWaWV3KFIuaWQudGV4dF9pbnB1dF9lZGl0X3RleHRfZmVlZGJhY2spCiAgICBUZXh0SW5wdXRMYXlvdXQgbVRleHRJbnB1dExheW91dEZlZWRiYWNrOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgQEpzb25Gb3JtYXQoc2hhcGUgPSBKc29uRm9ybWF0LlNoYXBlLlNUUklORywgcGF0dGVybiA9ICJ5eXl5LU1NLWRkIEhIOm1tIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRleHRXYXRjaGVyIHRleHRXYXRjaGVyID0gOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmphY2ttaXJhcy5wbGFjZWhvbGRlcmoubGlicmFyeS5QbGFjZUhvbGRlck1hbmFnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChtZW5zYWdlbSwgdGV4dElucHV0TGF5b3V0LmdldEVkaXRUZXh0KCkuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Ly8gYnVpbGQgYSBqYXIgd2l0aCBqYXZhZG9jCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWVuc2FnZW0gPSAiU2FyaXBhYXJBZGFwdGVyOmxpbXBhclRleHRvRG9UZXh0SW5wdXRMYXlvdXQoKSA9PT4gVGV4dG8gY2FwdHVyYWRvOiAiOwo=</text>
+        <text encoding="base64">Ly8gYnVpbGQgYSBqYXIgd2l0aCBzb3VyY2UgZmlsZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWVuc2FnZW0gPSAiU2FyaXBhYXJBZGFwdGVyOmxpbXBhclRleHRvRG9UZXh0SW5wdXRMYXlvdXQoKSA9PT4gVGV4dG8gY2FwdHVyYWRvOiAiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChtZW5zYWdlbSwgZWRpdFRleHQuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbiB0aGUgaW5kaXZpZHVhbCBtb2R1bGUgYnVpbGQuZ3JhZGxlIGZpbGVzCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">CiAgICA8SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pbWFnZV92aWV3X2NhbGVuZGFyX2ljb24iCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQCtpZC90ZXh0X2lucHV0X2xheW91dF9kZXN0aW5hdGlvbiIKICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblRvcD0iQCtpZC9saW5lYXJfbGF5b3V0X2NhbGVuZGFyX2NvbnRhaW5lciIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBtaXBtYXAvaWNfbGF1bmNoZXIiLz4=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>kotlin</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>kotlin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1096,28 +657,29 @@
         <entry>buil</entry>
         <entry>constraint</entry>
         <entry>build</entry>
+        <entry>kotlin</entry>
       </history-search>
       <history-cmd>
-        <entry>edit DateFormatHelper.java</entry>
-        <entry>edit Hotel.java</entry>
         <entry>edit README.md</entry>
         <entry>edit MainContract.java</entry>
         <entry>edit logger-core</entry>
         <entry>edit strings.xml</entry>
-        <entry>Wq</entry>
         <entry>edit orc-android</entry>
         <entry>edit User.kt</entry>
         <entry>build.gradle</entry>
         <entry>edit activity_login.xml</entry>
         <entry>edit app/build.gradle</entry>
         <entry>W</entry>
-        <entry>edit build.gradle</entry>
         <entry>edit AndroidManifest.xml</entry>
         <entry>edit DompetApplication.java</entry>
-        <entry>wq</entry>
         <entry>Q</entry>
-        <entry>q</entry>
+        <entry>edit InternetUtil.java</entry>
+        <entry>edit build.gradle</entry>
+        <entry>edit UserLoginActivity.java</entry>
+        <entry>Wq</entry>
+        <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
