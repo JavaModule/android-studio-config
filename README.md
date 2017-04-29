@@ -17,7 +17,7 @@ install-config.sh scrip with the command shown down bellow.
 ```bash
 	# Let's suppose that you have downloaded/cloned the project to your 'Download' folder.
 	cd ~/Download/android-studio-config
-	# Then git the execution permission to the install-config.sh.
+	# Then give the execution permission to the install-config.sh.
 	sudo chmod +x install-config.sh
 	# Finally execute.
 	sh install-config.sh
