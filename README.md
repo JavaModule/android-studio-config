@@ -35,12 +35,11 @@ install-config.sh scrip with the command shown down bellow.
 
 ### Editor > General > Auto import
 * Inser imports on past - 'All'
-* Optimize imports on the fly
 * Add unambiguous imports on the fly
+* Optimize imports on the fly
 
 ### Editor > General > Appearance
 * Use block caret
-* Show line numbers
 * Show white spaces
 * Show CSS color preview as background
 
