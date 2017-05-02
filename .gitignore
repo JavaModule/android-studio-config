@@ -46,6 +46,7 @@ options/fileEditorProviderManager.xml
 options/gradle.run.settings.xml
 options/options.xml
 options/web-browsers.xml
+options/vim_settings.xml
 
 # Plugins
 plugins/availables.xml
