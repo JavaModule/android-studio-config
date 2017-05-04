@@ -66,7 +66,7 @@ install-config.sh scrip with the command shown down bellow.
 * J2ME Issues.
 
 ## Color scheme
-* Dracula. [[link]](https://draculatheme.com/jetbrains/)
+* Dracula. [[link]](https://github.com/dracula/dracula-theme/)
 
 ## Plugins
 * .ignore. [[link]](https://github.com/hsz/idea-gitignore)
