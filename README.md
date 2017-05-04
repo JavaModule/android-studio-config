@@ -70,6 +70,7 @@ install-config.sh scrip with the command shown down bellow.
 
 ## Plugins
 * .ignore. [[link]](https://github.com/hsz/idea-gitignore)
+* Advanced Java Folding. [[link]](https://github.com/cheptsov/AdvancedExpressionFolding)
 * Android ButterKnife Zelezny. [[link]](https://github.com/avast/android-butterknife-zelezny)
 * Android Parcelable code generator. [[link]](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 * Android Studio Prettify. [[link]](https://github.com/Haehnchen/idea-android-studio-plugin)
