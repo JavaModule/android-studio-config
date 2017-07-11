@@ -1243,19 +1243,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.iedis">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.seventh7.widget.iedis" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.impex">
       <plugins>
         <option name="myPlugins">
@@ -3378,6 +3365,19 @@
               <option name="myPluginId" value="com.jetbrains.restWebServices" />
               <option name="myPluginName" value="REST WebServices" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.wdl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.broadinstitute.winstanley" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
