@@ -18,7 +18,6 @@ if [ -d "$DIRECTORY" ]; then
   rm -rf $HOME/.AndroidStudio2.3/config/options/markdown_navigator.shared.xml
   rm -rf $HOME/.AndroidStudio2.3/config/options/multimarkdown.shared.xml
   rm -rf $HOME/.AndroidStudio2.3/config/options/path.macros.xml
-  rm -rf $HOME/.AndroidStudio2.3/config/options/vim_settings.xml
 
   # Creating a symbolic link of the new Android Studio configurations into .AndroidStudio folder.
   cp codestyles/ -R $HOME/.AndroidStudio2.3/config/
@@ -34,7 +33,6 @@ if [ -d "$DIRECTORY" ]; then
   cp options/markdown_navigator.shared.xml -R $HOME/.AndroidStudio2.3/config/options/
   cp options/multimarkdown.shared.xml -R $HOME/.AndroidStudio2.3/config/options/
   cp options/path.macros.xml -R $HOME/.AndroidStudio2.3/config/options/
-  cp options/vim_settings.xml -R $HOME/.AndroidStudio2.3/config/options/
 
 	echo "Installation finished with success!"
 else
