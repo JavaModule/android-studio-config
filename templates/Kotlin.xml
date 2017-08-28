@@ -1,0 +1,126 @@
+<templateSet group="Kotlin">
+  <template name="renders" value="response.render(getMessage(request.locale(), &quot;$MESSAGE$&quot;), $STATUS$)" description="Render function with string as return." toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATUS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="rendero" value="response.render($OBJECT$, $STATUS$)" description="Render function with object as return." toReformat="false" toShortenFQNames="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATUS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="route" value="route(&quot;/$ROUTE$&quot;)&#10;    .get { request, response -&gt; $CONTRACT$.get(request, response) }&#10;    .post { request, response -&gt; $CONTRACT$.post(request, response) }&#10;    .put { request, response -&gt; $CONTRACT$.put(request, response) }&#10;    .delete { request, response -&gt; $CONTRACT$.delete(request, response) }&#10;" description="Route function to implement endpoints" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTRACT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="before" value="before(Filter { request, response -&gt;&#10;    $IMPLEMENTATION$&#10;})" description="Before function" toReformat="false" toShortenFQNames="true">
+    <variable name="IMPLEMENTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="after" value="after(Filter { request, reponse -&gt;&#10;    $IMPLEMENTATION$&#10;})" description="After function" toReformat="false" toShortenFQNames="true">
+    <variable name="IMPLEMENTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="queryParams" value="request.queryParams(&quot;$VALUE$&quot;)" description="Query params from request" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="context" value="context(&quot;$DESCRIPTION$&quot;) {&#10;&#10;    on(&quot;$DESCRIPION2$&quot;) {&#10;&#10;        it(&quot;$DESCRIPTION3$&quot;) {&#10;            $ASSERTION$&#10;        }&#10;    }&#10;}" description="The context function is used to describe a group of tests from Spek" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ASSERTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it(&quot;$DESCRIPTION$&quot;) {&#10;    $IMPLEMENTATION$&#10;}" description="The it function is used to describe a unit test from Spek" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPLEMENTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="given" value="given(&quot;$DESCRIPTION$&quot;) {&#10;&#10;    on(&quot;$ACTION$&quot;) {&#10;   &#10;        it(&quot;$TEST$&quot;) {&#10;        &#10;        }&#10;    } &#10;}&#10;" description="The given function is used to describe a specific group of tests from Spek" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="whenever" value="doReturn($VALUE_TO_RETURN$).whenever($MOCKED_FUNCTION_CALL$)" description="The whenever function is used to return a specific value when a given function is called from a mocked object from Mockito" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE_TO_RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MOCKED_FUNCTION_CALL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="message" value="getMessage(request.locale(), &quot;$KEY$&quot;)" description="The function that retrieve messages from the resource files" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="bindp" value="bind&lt;$BIND_TYPE$&gt;() with provider { $IMPLEMENTATION$ }" description="Bind with provider function from KODEIN" toReformat="false" toShortenFQNames="true">
+    <variable name="BIND_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPLEMENTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="binds" value="bind&lt;$BIND_TYPE$&gt;() with singleton { $IMPLEMENTATION$ }" description="Bind with singleton function from KODEIN" toReformat="false" toShortenFQNames="true">
+    <variable name="BIND_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPLEMENTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="inject" value="val $OBJECT_NAME$ by injector.lazy.instance&lt;$OBJECT_TYPE$&gt;()" description="Inject objects with kodein" toReformat="false" toShortenFQNames="true">
+    <variable name="OBJECT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="fclass" value="class $CLASS_NAME$Factory {&#10;&#10;    private val $REPOSITORY_NAME$Repository: $REPOSITORY_TYPE$ by injector.lazy.instance()&#10;&#10;    /**&#10;     * A function that build and save a $RETURN_TYPE$.&#10;     * @return a saved $RETURN_TYPE$.&#10;     */&#10;    fun create(): $RETURN_TYPE$ {&#10;        val $OBJECT_NAME$ = build()&#10;        $REPOSITORY_NAME$Repository.save($OBJECT_NAME$)&#10;        return $OBJECT_NAME$&#10;    }&#10;&#10;    /**&#10;     * A function that build and save a list of $RETURN_TYPE$.&#10;     * @return an list of saved $RETURN_TYPE$ instances.&#10;     */&#10;    fun create(amount: Int): MutableList&lt;$RETURN_TYPE$&gt; {&#10;        val $LIST_NAME$ = mutableListOf&lt;$RETURN_TYPE$&gt;()&#10;        for (index in 1..amount) {&#10;            val $OBJECT_NAME$ = build()&#10;            $REPOSITORY_NAME$Repository.save($OBJECT_NAME$)&#10;            $LIST_NAME$.add($OBJECT_NAME$)&#10;        }&#10;        return $LIST_NAME$&#10;    }&#10;&#10;    /**&#10;     * A function that build an $RETURN_TYPE$ object.&#10;     * @return a $RETURN_TYPE$ that's not saved.&#10;     */&#10;    fun build(): $RETURN_TYPE$ {&#10;        val faker = Faker()&#10;        val $OBJECT_NAME$ = $RETURN_TYPE$()&#10;        $IMPLEMENTATION_HERE$&#10;        return $OBJECT_NAME$&#10;    }&#10;&#10;    /**&#10;     * Drop the $LIST_NAME$ previously created.&#10;     * @return a Unit object.&#10;     */&#10;    fun clear() {&#10;        $REPOSITORY_NAME$Repository.dropCollection()&#10;    }&#10;&#10;}" description="Factory class use to generate objects used in the unit tests" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="REPOSITORY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="REPOSITORY_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPLEMENTATION_HERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="rclass" value="class $REPOSITORY_NAME$Repository : RepositoryContract.Impl {&#10;&#10;    val baseRepository : BaseRepository by injector.lazy.instance()&#10;&#10;    override fun save(entity: Any) = baseRepository.save(entity)&#10;&#10;    override fun findBy(filter: String, value: String): Any = baseRepository.findBy(filter, value, $MODEL$::class)&#10;&#10;    override fun &lt;T : Any&gt; getAllItems(kClass: KClass&lt;T&gt;): MutableList&lt;T&gt; = baseRepository.getAllItems(kClass)&#10;&#10;    override fun update(entity: Any): Boolean = baseRepository.update(entity)&#10;&#10;    override fun delete(id: String): Boolean = baseRepository.delete($MODEL$::class, id)&#10;&#10;    override fun dropCollection() = baseRepository.dropCollection($MODEL$::class)&#10;&#10;}" description="Repository class used to query datas from DB." toReformat="false" toShortenFQNames="true">
+    <variable name="REPOSITORY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="brclass" value="class BaseRepository : RepositoryContract.Base {&#10;&#10;    val dataStore: Datastore by injector.lazy.instance()&#10;&#10;    override fun save(entity: Any) {&#10;        dataStore.save(entity)&#10;    }&#10;&#10;    override fun &lt;T : Any&gt; findBy(filter: String, value: String, kClass: KClass&lt;T&gt;): T {&#10;        return dataStore.find(kClass.java).filter(&quot;$filter =&quot;, value).retrieveKnownFields().get()&#10;    }&#10;&#10;    override fun &lt;T : Any&gt; getAllItems(kClass: KClass&lt;T&gt;): MutableList&lt;T&gt; {&#10;        return dataStore.find(kClass.java).retrieveKnownFields().asList()&#10;    }&#10;&#10;    override fun update(entity: Any): Boolean {&#10;        return false&#10;    }&#10;&#10;    override fun &lt;T : Any&gt; delete(kClass: KClass&lt;T&gt;, id: String): Boolean {&#10;        val deleteQuery = dataStore.createQuery(kClass.java).filter(&quot;_id&quot;, id)&#10;        return dataStore.delete(deleteQuery).isUpdateOfExisting&#10;    }&#10;&#10;    override fun &lt;T : Any&gt; dropCollection(kClass: KClass&lt;T&gt;) {&#10;        dataStore.getCollection(kClass.java).drop()&#10;    }&#10;&#10;}" description="Repository class that is used as base for another classes and to query datas from DB." toReformat="false" toShortenFQNames="true" />
+  <template name="lazy" value="val $VALUE_NAME$ by lazy { $EXPRESSION_IMPL$ }" description="Lazy load of value to a property" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION_IMPL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
