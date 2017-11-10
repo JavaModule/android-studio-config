@@ -652,6 +652,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.cfg">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="codes.rudolph.idea.cfg" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.cfm">
       <plugins>
         <option name="myPlugins">
@@ -4144,6 +4157,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.scm">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="intellij-scheme" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.scpt">
       <plugins>
         <option name="myPlugins">
@@ -4409,6 +4435,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.google.idea.bazel.aswb" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.ss">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="intellij-scheme" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
