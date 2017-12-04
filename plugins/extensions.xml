@@ -491,6 +491,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.bib">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.blazeproject">
       <plugins>
         <option name="myPlugins">
@@ -665,6 +678,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.cfgr">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="codes.rudolph.idea.cfg" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.cfm">
       <plugins>
         <option name="myPlugins">
@@ -735,6 +761,11 @@
         <option name="myPlugins">
           <set>
             <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+            <plugin>
               <option name="myPluginId" value="org.jetbrains.idea.clojure" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
@@ -747,6 +778,11 @@
       <plugins>
         <option name="myPlugins">
           <set>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.idea.clojure" />
               <option name="myPluginName" />
@@ -761,7 +797,25 @@
         <option name="myPlugins">
           <set>
             <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+            <plugin>
               <option name="myPluginId" value="org.jetbrains.idea.clojure" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.cljx">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -1322,6 +1376,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.edn">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.cursiveclojure.cursive" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.elements">
       <plugins>
         <option name="myPlugins">
@@ -1551,11 +1618,6 @@
               <option name="myPluginId" value="cucumber" />
               <option name="myPluginName" value="Gherkin" />
               <option name="myBundled" value="true" />
-            </plugin>
-            <plugin>
-              <option name="myPluginId" value="cucumber" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
             </plugin>
             <plugin>
               <option name="myPluginId" value="gherkin" />
@@ -1961,6 +2023,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.hprof">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.hql">
       <plugins>
         <option name="myPlugins">
@@ -2268,6 +2343,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="JFormDesigner" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.jps">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -2859,6 +2947,32 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.mli">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.mm">
       <plugins>
         <option name="myPlugins">
@@ -3267,6 +3381,19 @@
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.phd">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
@@ -5465,6 +5592,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="org.eclipse.xtend.idea" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.xtext">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.eclipse.xtext.xtext.idea" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
